@@ -1,0 +1,1742 @@
+	utt_1	utt_2	dialog_id	label
+0		hello what are doing today?	1	1
+1	hello what are doing today?	i am good, i just got off work and tired, i have two jobs.	1	0
+2	i am good, i just got off work and tired, i have two jobs.	i just got done watching a horror movie	1	0
+3	i just got done watching a horror movie	i rather read, i have read about 20 books this year.	1	0
+4	i rather read, i have read about 20 books this year.	wow! i do love a good horror movie. loving this cooler weather	1	0
+5	wow! i do love a good horror movie. loving this cooler weather	but a good movie is always good.	1	0
+6	but a good movie is always good.	yes! my son is in junior high and i just started letting him watch them too	1	0
+7	yes! my son is in junior high and i just started letting him watch them too	i work in the movies as well.	1	0
+8	i work in the movies as well.	neat!! i used to work in the human services field	1	0
+9	neat!! i used to work in the human services field	yes it is neat, i stunt double, it is so much fun and hard work.	1	0
+10	yes it is neat, i stunt double, it is so much fun and hard work.	yes i bet you can get hurt. my wife works and i stay at home	1	0
+11	yes i bet you can get hurt. my wife works and i stay at home	nice, i only have one parent so now i help out my mom.	1	0
+12	nice, i only have one parent so now i help out my mom.	i bet she appreciates that very much.	1	0
+13	i bet she appreciates that very much.	she raised me right, i am just like her.	1	0
+14	she raised me right, i am just like her.	my dad was always busy working at home depot	1	0
+15	my dad was always busy working at home depot	now that i am older home depot is my toy r us.	1	0
+16	now that i am older home depot is my toy r us.	hi! how are you doing tonight?	2	1
+17	hi! how are you doing tonight?	i am doing great. just relaxing with my two dogs.	2	0
+18	i am doing great. just relaxing with my two dogs.	great. in my spare time i do volunteer work.	2	0
+19	great. in my spare time i do volunteer work.	that is neat. what kind of volunteer work do you do?	2	0
+20	that is neat. what kind of volunteer work do you do?	i work in a homeless shelter in my town.	2	0
+21	i work in a homeless shelter in my town.	good for you. do you like vintage cars? i have two older mustangs.	2	1
+22	good for you. do you like vintage cars? i have two older mustangs.	cool. not really into cars. my day job is wrestling.	2	0
+23	cool. not really into cars. my day job is wrestling.	cars are my thing. vintage cars. i love working on them. wrestling? do you enjoy it?	2	0
+24	cars are my thing. vintage cars. i love working on them. wrestling? do you enjoy it?	yes, i love the crowds, getting to know people.	2	0
+25	yes, i love the crowds, getting to know people.	i did not think about the crowd aspect of wrestling. i do not like crowds.	2	0
+26	i did not think about the crowd aspect of wrestling. i do not like crowds.	understood.	2	0
+27	understood.	when i need to be alone, i work out a few times each week.	2	0
+28	when i need to be alone, i work out a few times each week.	i agree. working out is a great way to burn off steam. do you like country music?	2	1
+29	i agree. working out is a great way to burn off steam. do you like country music?	a little bit. i can get into taylor swift.	2	0
+30	a little bit. i can get into taylor swift.	lol. she is more pop now. her old stuff was country. i like classic country.	2	0
+31	lol. she is more pop now. her old stuff was country. i like classic country.	hello, how are you doing?	3	1
+32	hello, how are you doing?	i love spending time with my family	3	0
+33	i love spending time with my family	that is great, me too!	3	0
+34	that is great, me too!	i am married and my husband and i have 2 children.	3	0
+35	i am married and my husband and i have 2 children.	so then have you ever been to disneyland?	3	1
+36	so then have you ever been to disneyland?	no, we recently purchased a new house, so we cannot afford it.	3	0
+37	no, we recently purchased a new house, so we cannot afford it.	have you?	3	0
+38	have you?	yes i love mickey mouse such a cute little rat	3	0
+39	yes i love mickey mouse such a cute little rat	i enjoy going to concerts, i see the rolling stones every year.	3	0
+40	i enjoy going to concerts, i see the rolling stones every year.	man your lucky i am a baby delivery nurse and the pay sucks	3	1
+41	man your lucky i am a baby delivery nurse and the pay sucks	maybe you should consider going back to school. i did. i major in economics.	3	0
+42	maybe you should consider going back to school. i did. i major in economics.	i have to walk 3 miles to work to save money everyday what do you do?	3	0
+43	i have to walk 3 miles to work to save money everyday what do you do?	i mostly eat a fresh and raw diet, so i save on groceries.	3	0
+44	i mostly eat a fresh and raw diet, so i save on groceries.	your economic skills are amazing	3	0
+45	your economic skills are amazing	thank you very much! i am sure you are a great nurse.	3	0
+46	thank you very much! i am sure you are a great nurse.	i am a ok nurse i have dripped some babies though but i am getting better	3	0
+47	i am a ok nurse i have dripped some babies though but i am getting better	hi how are you doing? i am okay how about you?	4	1
+48	hi how are you doing? i am okay how about you?	i am doing good. just sipping tea. what do you do for work?	4	0
+49	i am doing good. just sipping tea. what do you do for work?	i used to do home health aide but now i am disabled.	4	0
+50	i used to do home health aide but now i am disabled.	i am sorry to hear that. what happened	4	0
+51	i am sorry to hear that. what happened	i graduated and got my license worked a while and became i will.	4	0
+52	i graduated and got my license worked a while and became i will.	so what do you do now for fun? i like to read.	4	1
+53	so what do you do now for fun? i like to read.	i have dogs and i walk them. and a cat.	4	0
+54	i have dogs and i walk them. and a cat.	what kind of dogs do you have?	4	0
+55	what kind of dogs do you have?	i enjoy reading read about michael jackson and psychology today.	4	0
+56	i enjoy reading read about michael jackson and psychology today.	i love reading. i have a big library at my house.	4	0
+57	i love reading. i have a big library at my house.	that is very nice i love to read to and read about journals.	4	0
+58	that is very nice i love to read to and read about journals.	i have a tough time hearing so reading is my happy place.	4	0
+59	i have a tough time hearing so reading is my happy place.	cool that is okay. my mom was very tough on me.	4	1
+60	cool that is okay. my mom was very tough on me.	i work as a hearing impaired museum tour guide.	4	0
+61	i work as a hearing impaired museum tour guide.	hi i dye my hair 4 times a year	5	1
+62	hi i dye my hair 4 times a year	do you live in the sky? i do. in the clouds.	5	0
+63	do you live in the sky? i do. in the clouds.	no.	5	0
+64	no.	i do not , i have a dream , it is to work from home.	5	0
+65	i do not , i have a dream , it is to work from home.	i make time stop. i have a superpower. i am a super hero.	5	0
+66	i make time stop. i have a superpower. i am a super hero.	that is really cool that you can do that	5	0
+67	that is really cool that you can do that	i love living in the clouds the best. do you have powers?	5	0
+68	i love living in the clouds the best. do you have powers?	no.	5	0
+69	no.	i do not , i faint when i see blood.	5	0
+70	i do not , i faint when i see blood.	i do not like blood. i vomit.	5	0
+71	i do not like blood. i vomit.	i went to school to be a vet, but i did not like it	5	1
+72	i went to school to be a vet, but i did not like it	i want to be a teacher when i grow up	5	0
+73	i want to be a teacher when i grow up	what is your name? are you a male or female?	5	1
+74	what is your name? are you a male or female?	i am a girl. i do not give out my name.	5	0
+75	i am a girl. i do not give out my name.	i think a teacher is to tough	5	0
+76	i think a teacher is to tough	i like science and art.	5	0
+77	i like science and art.	hi! do you like turtles?	6	1
+78	hi! do you like turtles?	i am much more of a cat person actually	6	0
+79	i am much more of a cat person actually	i have a turtle his name is speedy.	6	0
+80	i have a turtle his name is speedy.	kitties are nice too, tho!	6	0
+81	kitties are nice too, tho!	that is an adorable name for a turtle. i have 2 cats	6	0
+82	that is an adorable name for a turtle. i have 2 cats	what are your kitties names?	6	0
+83	what are your kitties names?	snow and winter, named after my favorite season	6	0
+84	snow and winter, named after my favorite season	i like that! i go to preschool.	6	1
+85	i like that! i go to preschool.	oh you are so young!	6	0
+86	oh you are so young!	how old are you? i turned four on my birthday!	6	0
+87	how old are you? i turned four on my birthday!	i am an old woman. i won a gold medal in 1992	6	1
+88	i am an old woman. i won a gold medal in 1992	wow!! you won gold! are you rich?	6	0
+89	wow!! you won gold! are you rich?	no. i spend all of my money on hats! i own over a thousand	6	0
+90	no. i spend all of my money on hats! i own over a thousand	i like hats too!	6	0
+91	i like hats too!	but, my favorite thing to do is play with my dollies.	6	0
+92	but, my favorite thing to do is play with my dollies.	that is great. do you have a lot?	6	0
+93	that is great. do you have a lot?	hello, how are you tonight?	7	1
+94	hello, how are you tonight?	do you have pink and blue hair?	7	1
+95	do you have pink and blue hair?	hi, i am doing pretty good these evening	7	0
+96	hi, i am doing pretty good these evening	what do you like to do in your spare time? i bird watch.	7	1
+97	what do you like to do in your spare time? i bird watch.	i actually have purple hair and i love it and enjoy watching war documentaries	7	0
+98	i actually have purple hair and i love it and enjoy watching war documentaries	those are fun.	7	1
+99	those are fun.	i have a cat, do you?	7	1
+100	i have a cat, do you?	i have a bird and she loves cheeseburgers like me, my favorite	7	0
+101	i have a bird and she loves cheeseburgers like me, my favorite	is that healthy for birds?	7	0
+102	is that healthy for birds?	probably not but a bite here and there i think is okay	7	0
+103	probably not but a bite here and there i think is okay	do you like the holidays? i do not.	7	1
+104	do you like the holidays? i do not.	i do love the holidays i volunteer a soup kitchen during the holiday season	7	0
+105	i do love the holidays i volunteer a soup kitchen during the holiday season	i get depressed. how old are you? i am very old.	7	1
+106	i get depressed. how old are you? i am very old.	oh man.	7	0
+107	oh man.	sorry about that , i am 33 and love giving back.	7	0
+108	sorry about that , i am 33 and love giving back.	i grew up poor.	7	0
+109	i grew up poor.	i did too, back during the great depression.	7	0
+110	i did too, back during the great depression.	oh wow, i can imagine it was a very hard time	7	0
+111	oh wow, i can imagine it was a very hard time	it was, but it made us strong.	7	0
+112	it was, but it made us strong.	yes.	7	0
+113	yes.	it really did , that is why i enjoy y volunteer work.	7	0
+114	it really did , that is why i enjoy y volunteer work.	hi, how are you doing today?	8	1
+115	hi, how are you doing today?	good! you! celebrating with fellow centenarians	8	0
+116	good! you! celebrating with fellow centenarians	nice. i am playing some card games with my family.	8	0
+117	nice. i am playing some card games with my family.	that sounds like fun. i like wine and dancing too!	8	0
+118	that sounds like fun. i like wine and dancing too!	same. i try to get a small workout in a three mile walk for me is key.	8	0
+119	same. i try to get a small workout in a three mile walk for me is key.	awesome! walking like that you might live forever like me!!	8	0
+120	awesome! walking like that you might live forever like me!!	that is true. my favorite way to unwind is reading a book.	8	1
+121	that is true. my favorite way to unwind is reading a book.	you sound very like minded, just add some wine	8	0
+122	you sound very like minded, just add some wine	which do you prefer white or red?	8	0
+123	which do you prefer white or red?	fermented. i prefer well aged and fermented. i could bathe in it!	8	0
+124	fermented. i prefer well aged and fermented. i could bathe in it!	good choice. i always like a nice dry white wine.	8	0
+125	good choice. i always like a nice dry white wine.	i think i should go grab a bottle now and get some dancing music on	8	0
+126	i think i should go grab a bottle now and get some dancing music on	sounds like a good way to enjoy a sunday afternoon.	8	0
+127	sounds like a good way to enjoy a sunday afternoon.	yes indeed. being a centenarian you learn to appreciate these things	8	0
+128	yes indeed. being a centenarian you learn to appreciate these things	hello, are you attending church in the morning?	9	1
+129	hello, are you attending church in the morning?	only if i can get a ride. i am very old and cannot drive	9	0
+130	only if i can get a ride. i am very old and cannot drive	if i lived close, i would take you.	9	0
+131	if i lived close, i would take you.	i teach sunday school.	9	0
+132	i teach sunday school.	how nice. you must love kids.	9	0
+133	how nice. you must love kids.	i do.	9	0
+134	i do.	i do not have any, my dogs are my children.	9	0
+135	i do not have any, my dogs are my children.	would you like to know the secret to living as long as i have?	9	1
+136	would you like to know the secret to living as long as i have?	yes, please.	9	0
+137	yes, please.	that would be wonderful.	9	0
+138	that would be wonderful.	drinking wine, and dancing in the moonlight.	9	0
+139	drinking wine, and dancing in the moonlight.	very nice. i do both as well.	9	0
+140	very nice. i do both as well.	doing both of those things has helped me make it to my 100th birthday.	9	0
+141	doing both of those things has helped me make it to my 100th birthday.	oh wow. i hope i live as long as you!	9	0
+142	oh wow. i hope i live as long as you!	i may be old, but i am stronger than i look!	9	0
+143	i may be old, but i am stronger than i look!	very nice to hear. women are often thought of as weak.	9	1
+144	very nice to hear. women are often thought of as weak.	women were not even allowed to vote when i was a child.	9	0
+145	women were not even allowed to vote when i was a child.	that is truly awful.	9	0
+146	that is truly awful.	thankfully, things have since changed.	9	0
+147	thankfully, things have since changed.	lots of things have changed. i remember when televisions were not a common household item.	9	0
+148	lots of things have changed. i remember when televisions were not a common household item.	hey, i enjoy mowing lawns in the summer	10	1
+149	hey, i enjoy mowing lawns in the summer	hello. how are you? my pet turtle and i are sitting here.	10	0
+150	hello. how are you? my pet turtle and i are sitting here.	my turtle and myself love to grill outside	10	0
+151	my turtle and myself love to grill outside	mommy says to pick up toys. i do not like to. i want to play dolls!	10	1
+152	mommy says to pick up toys. i do not like to. i want to play dolls!	yeah, i have been retired for a long time!	10	1
+153	yeah, i have been retired for a long time!	years!	10	1
+154	years!	i want to go next door and play with my best friend, not work!	10	0
+155	i want to go next door and play with my best friend, not work!	yeah.	10	0
+156	yeah.	i want to gamble , i go gambling when time permits.	10	0
+157	i want to gamble , i go gambling when time permits.	shame on you! mommy says you should not gamble!	10	0
+158	shame on you! mommy says you should not gamble!	she gambled on you, and did she get a bad kid?	10	0
+159	she gambled on you, and did she get a bad kid?	no she did not! i am telling my mommy on you!	10	0
+160	no she did not! i am telling my mommy on you!	tell her to get you to bed!	10	0
+161	tell her to get you to bed!	but i want to play dollies with my best friend!	10	0
+162	but i want to play dollies with my best friend!	well i am not gonna play dollies with you!	10	0
+163	well i am not gonna play dollies with you!	well i do not wanna play with you either!	10	0
+164	well i do not wanna play with you either!	good! i hope you win the baby lottery!	10	0
+165	good! i hope you win the baby lottery!	i am sorry! do not be mad at me!	10	0
+166	i am sorry! do not be mad at me!	how are you?	11	1
+167	how are you?	i am tired of my parents bothering me, hoping to move out soon.	11	1
+168	i am tired of my parents bothering me, hoping to move out soon.	i completely get it. my mom is way too traditional for me!	11	0
+169	i completely get it. my mom is way too traditional for me!	i never drink or use drugs. i am 19 and just want to see my friends.	11	0
+170	i never drink or use drugs. i am 19 and just want to see my friends.	i understand. when do you think you might be able to move?	11	0
+171	i understand. when do you think you might be able to move?	not sure. i have a part time job at burger king. do you work?	11	1
+172	not sure. i have a part time job at burger king. do you work?	i do. i coach swimming at the pool near my house.	11	0
+173	i do. i coach swimming at the pool near my house.	awesome. my parents are just always on me about something. are you moving soon?	11	0
+174	awesome. my parents are just always on me about something. are you moving soon?	i am still in school. i cannot move until i finish my degree	11	0
+175	i am still in school. i cannot move until i finish my degree	that must be tough. what do you study?	11	1
+176	that must be tough. what do you study?	i want to be a computer programmer. are you in school?	11	0
+177	i want to be a computer programmer. are you in school?	yes, i am studying education and working part time.	11	0
+178	yes, i am studying education and working part time.	that sounds interesting. do you like it?	11	0
+179	that sounds interesting. do you like it?	yes, i love it.	11	0
+180	yes, i love it.	how are your courses?	11	0
+181	how are your courses?	they are great. i really like the challenge. what do you want to teach?	11	0
+182	they are great. i really like the challenge. what do you want to teach?	i hope to teach elementary school. how much longer until you graduate?	11	0
+183	i hope to teach elementary school. how much longer until you graduate?	three more years. i feel like i wil never get out. how about you?	11	0
+184	three more years. i feel like i wil never get out. how about you?	same for me! looking forward to being done and out of my parents house!	11	0
+185	same for me! looking forward to being done and out of my parents house!	things are so strict.	11	0
+186	things are so strict.	my family is from india, so they just do not get it.	11	0
+187	my family is from india, so they just do not get it.	hi. i am billy. i work as an electrician in texas	12	1
+188	hi. i am billy. i work as an electrician in texas	i very rarely speak to people.	12	0
+189	i very rarely speak to people.	billy , because i am so famous.	12	0
+190	billy , because i am so famous.	really? how? i do a lot of work on my mom and dads farm.	12	0
+191	really? how? i do a lot of work on my mom and dads farm.	i am working on a robot so i can have company that does not annoy me.	12	0
+192	i am working on a robot so i can have company that does not annoy me.	the only company i have is my pet cow.	12	0
+193	the only company i have is my pet cow.	i helped design starcraft. do you have time to play games without the cow	12	0
+194	i helped design starcraft. do you have time to play games without the cow	no usually. i live in the country. just drive my big truck and listen to country music.	12	0
+195	no usually. i live in the country. just drive my big truck and listen to country music.	i do twitch streaming for fun, so we do not have much in common do we?	12	0
+196	i do twitch streaming for fun, so we do not have much in common do we?	not much. i like pizza too!	12	0
+197	not much. i like pizza too!	i like pizza, one thing in common.	12	0
+198	i like pizza, one thing in common.	i live inland because i am allergic to water	12	0
+199	i live inland because i am allergic to water	really? i did not know that was possible! how do you stay hydrated?	12	0
+200	really? i did not know that was possible! how do you stay hydrated?	very carefully, did you get flooded in texas?	12	1
+201	very carefully, did you get flooded in texas?	no. i live more north. near dallas.	12	0
+202	no. i live more north. near dallas.	good!	12	0
+203	good!	i have not seen a person in 5 years, have my stuff delivered	12	0
+204	i have not seen a person in 5 years, have my stuff delivered	hello. i love to read and my favorite books are the hunger games series. what about you?	13	1
+205	hello. i love to read and my favorite books are the hunger games series. what about you?	hi!	13	0
+206	hi!	i am an olympic gymnast, i do not read much.	13	0
+207	i am an olympic gymnast, i do not read much.	that is exciting and must allow you to travel alot. ever been to spain?	13	0
+208	that is exciting and must allow you to travel alot. ever been to spain?	yes, i have.	13	0
+209	yes, i have.	i picked up a lovely yellow blouse there.	13	0
+210	i picked up a lovely yellow blouse there.	i hope to go back when i retire in a few years. how long before you retire?	13	1
+211	i hope to go back when i retire in a few years. how long before you retire?	i have another two years before i can retire from gymnastics.	13	0
+212	i have another two years before i can retire from gymnastics.	what are your plans after retirement?	13	0
+213	what are your plans after retirement?	i would like to go to culinary school, i am still young.	13	0
+214	i would like to go to culinary school, i am still young.	i love to cook for my grandkids. i plan to travel more.	13	0
+215	i love to cook for my grandkids. i plan to travel more.	i mainly cook italian, and garlic bread.	13	0
+216	i mainly cook italian, and garlic bread.	i would love to travel to italy. i love baking cookies.	13	0
+217	i would love to travel to italy. i love baking cookies.	i would love to be a pastry chef, i make earl grey shortbread a lot.	13	0
+218	i would love to be a pastry chef, i make earl grey shortbread a lot.	i have never had earl grey shortbread only the tea.	13	0
+219	i have never had earl grey shortbread only the tea.	i put it in the shortbread.	13	0
+220	i put it in the shortbread.	hello! i was three when i learned to play guitar!	14	1
+221	hello! i was three when i learned to play guitar!	hi i enjoy disney world and go every year	14	0
+222	hi i enjoy disney world and go every year	that is great. i really like rascal flats. i think they played there before.	14	0
+223	that is great. i really like rascal flats. i think they played there before.	that is a good band. i love mickey mouse	14	0
+224	that is a good band. i love mickey mouse	i actually grew up in the entertainment industry.	14	0
+225	i actually grew up in the entertainment industry.	i am also in the 3rd grade	14	0
+226	i am also in the 3rd grade	wow. do you like national parks? my family and i spent summers there.	14	1
+227	wow. do you like national parks? my family and i spent summers there.	no, i never have been.	14	0
+228	no, i never have been.	i like to go to the playground with friends	14	0
+229	i like to go to the playground with friends	i enjoyed that when was younger too. what is your family like?	14	1
+230	i enjoyed that when was younger too. what is your family like?	i also like frozen the movie and sing a long with it.	14	0
+231	i also like frozen the movie and sing a long with it.	great! i like music too and that is why i play guitar.	14	0
+232	great! i like music too and that is why i play guitar.	that is awesome to hear!	14	0
+233	that is awesome to hear!	do you have a dog or cat?	14	1
+234	do you have a dog or cat?	no, mom said i cannot have pets when i have my own place i can.	14	0
+235	no, mom said i cannot have pets when i have my own place i can.	do you have any brothers or sisters?	14	1
+236	do you have any brothers or sisters?	i have a sister who is 10 years older than me	14	0
+237	i have a sister who is 10 years older than me	hello, i am sitting here with my dog.	15	1
+238	hello, i am sitting here with my dog.	how are you?	15	1
+239	how are you?	i am well friend. looking for new employment at the moment.	15	0
+240	i am well friend. looking for new employment at the moment.	what would be your dream job?	15	0
+241	what would be your dream job?	a writer. i am currently an er doctor.	15	0
+242	a writer. i am currently an er doctor.	what was the worst accident you have seen in the er?	15	0
+243	what was the worst accident you have seen in the er?	a man had his throat slit in a home invasion	15	0
+244	a man had his throat slit in a home invasion	that is very scary. i would rather stick to my knitting passion.	15	0
+245	that is very scary. i would rather stick to my knitting passion.	i have a daughter who people say is a child prodigy	15	1
+246	i have a daughter who people say is a child prodigy	what talents does she have?	15	0
+247	what talents does she have?	math! i hate it! lol. do you have children?	15	0
+248	math! i hate it! lol. do you have children?	i have two children. they also enjoy math.	15	0
+249	i have two children. they also enjoy math.	that is nice. what is your favorite movie?	15	1
+250	that is nice. what is your favorite movie?	my favorite movie is clueless.	15	0
+251	my favorite movie is clueless.	mine is friday! although i do love clueless too!	15	0
+252	mine is friday! although i do love clueless too!	do you think they will make another friday movie?	15	0
+253	do you think they will make another friday movie?	oh i hope so! that would be awesome.	15	0
+254	oh i hope so! that would be awesome.	hey how are you today	16	1
+255	hey how are you today	i am busy studying psychology for my graduate school class. you?	16	0
+256	i am busy studying psychology for my graduate school class. you?	i have retired and now spend my time as a pro gambler	16	0
+257	i have retired and now spend my time as a pro gambler	sounds cool! i could be your dog walker when you are busy.	16	0
+258	sounds cool! i could be your dog walker when you are busy.	well being retired i have a lot of spare time either in a casino or outdoors	16	0
+259	well being retired i have a lot of spare time either in a casino or outdoors	i love the outdoors. i can survive in the wilderness for weeks	16	0
+260	i love the outdoors. i can survive in the wilderness for weeks	yeah me to just got back from two weeks in the bush	16	0
+261	yeah me to just got back from two weeks in the bush	did your parents teach you to survive like mine did?	16	0
+262	did your parents teach you to survive like mine did?	my dad did he has his own outdoor show its possible you have seen it	16	0
+263	my dad did he has his own outdoor show its possible you have seen it	i may have. what is it called?	16	0
+264	i may have. what is it called?	jim shockey he has survived in places all over the world	16	0
+265	jim shockey he has survived in places all over the world	i love that show! i watch it between studying.	16	0
+266	i love that show! i watch it between studying.	yeah did not get to see him much as a child	16	0
+267	yeah did not get to see him much as a child	that must have been hard. my parents were always hiking with me.	16	0
+268	that must have been hard. my parents were always hiking with me.	that is nice must have been fun	16	0
+269	that is nice must have been fun	it was fun. probably why i became a dog walker	16	0
+270	it was fun. probably why i became a dog walker	hello there, how are you today?	17	1
+271	hello there, how are you today?	hello! how has your day been?	17	0
+272	hello! how has your day been?	great so far preparing my kindergarten lesson for tomorrow.	17	0
+273	great so far preparing my kindergarten lesson for tomorrow.	i only eat kosher foods	17	1
+274	i only eat kosher foods	what is your favorite? i eat out alot with friends and some love kosher also.	17	0
+275	what is your favorite? i eat out alot with friends and some love kosher also.	i like kosher salt a lot	17	0
+276	i like kosher salt a lot	no salt for me, at 24 i need to establish a healthy eating lifestyle.	17	0
+277	no salt for me, at 24 i need to establish a healthy eating lifestyle.	i like kosher salt more then regular salt	17	0
+278	i like kosher salt more then regular salt	i am slimming down to fit into a wedding dress in spring so salt is out.	17	0
+279	i am slimming down to fit into a wedding dress in spring so salt is out.	you must be a hot milf	17	0
+280	you must be a hot milf	ha, ha, ha...	17	1
+281	ha, ha, ha...	to young for milf.	17	1
+282	to young for milf.	what type of music do you like?	17	1
+283	what type of music do you like?	i like your music a lot	17	0
+284	i like your music a lot	so you are a big taylor swift fan as i am?	17	0
+285	so you are a big taylor swift fan as i am?	i love my girl taylor	17	0
+286	i love my girl taylor	yes she is a1 with her stuff, i love her new album..	17	0
+287	yes she is a1 with her stuff, i love her new album..	i know i love you too	17	0
+288	i know i love you too	hi, kevin here.	18	1
+289	hi, kevin here.	i love mexican food, aerosmith and nascar racing and a construction worker.	18	1
+290	i love mexican food, aerosmith and nascar racing and a construction worker.	i am a recording engineer myself. currently living in california	18	0
+291	i am a recording engineer myself. currently living in california	great! i wear a yellow construction worker hat to aerosmith concerts.	18	0
+292	great! i wear a yellow construction worker hat to aerosmith concerts.	that sounds fun. i would rather be inside though.	18	0
+293	that sounds fun. i would rather be inside though.	wow! what artists you work with? i started working at sixteen as a construction model.	18	1
+294	wow! what artists you work with? i started working at sixteen as a construction model.	no one you know probably. the market was dead last year unfortunately.	18	0
+295	no one you know probably. the market was dead last year unfortunately.	oh okay. you like car racing? i do. i also like mexican pizza.	18	1
+296	oh okay. you like car racing? i do. i also like mexican pizza.	i love car racing. i am not crazy about lawyers though.	18	0
+297	i love car racing. i am not crazy about lawyers though.	me too! i wear a yellow construction hat and my dad is a lawyer. bummer huh?	18	0
+298	me too! i wear a yellow construction hat and my dad is a lawyer. bummer huh?	maybe he is the one that my ex left me for.	18	0
+299	maybe he is the one that my ex left me for.	oh wow. does your ex like aerosmith? my dad and i do?	18	0
+300	oh wow. does your ex like aerosmith? my dad and i do?	i do not think so. i own my own studio and she tried to take it.	18	0
+301	i do not think so. i own my own studio and she tried to take it.	bummer! does your ex like mexican food and fast cars? she could be my stepmom.	18	0
+302	bummer! does your ex like mexican food and fast cars? she could be my stepmom.	no she likes lies and cheating. lol	18	0
+303	no she likes lies and cheating. lol	funny. you think your ex would like construction workers?	18	0
+304	funny. you think your ex would like construction workers?	i am 46 with kids, maybe she did not like that.	18	0
+305	i am 46 with kids, maybe she did not like that.	hello. my name is rob. how are you today?	19	1
+306	hello. my name is rob. how are you today?	my name is kelly. i am well. how are you?	19	0
+307	my name is kelly. i am well. how are you?	i am sad today remembering my mom who died when i was a child.	19	0
+308	i am sad today remembering my mom who died when i was a child.	i am so sorry to hear that. my father also passed away. he drove for nascar.	19	0
+309	i am so sorry to hear that. my father also passed away. he drove for nascar.	sorry to hear that. my dad is an army soldier.	19	0
+310	sorry to hear that. my dad is an army soldier.	i thank him for his service.	19	0
+311	i thank him for his service.	thank you for saying that. what do you do for fun?	19	1
+312	thank you for saying that. what do you do for fun?	i play with my german shepherd named barnaby. he is my baby.	19	0
+313	i play with my german shepherd named barnaby. he is my baby.	i love dogs. i play softball and i love it!	19	0
+314	i love dogs. i play softball and i love it!	i played softball years ago. i am too busy working for the us postal service.	19	1
+315	i played softball years ago. i am too busy working for the us postal service.	that is a good job. i work in insurance. it also keeps me busy.	19	0
+316	that is a good job. i work in insurance. it also keeps me busy.	i live in the southwest and i am deathly afraid of scorpions. not a good mix.	19	1
+317	i live in the southwest and i am deathly afraid of scorpions. not a good mix.	that sounds like quite the predicament.	19	0
+318	that sounds like quite the predicament.	it is. i do like it here aside from that.	19	0
+319	it is. i do like it here aside from that.	how is the weather there today? it is cloudy and cool here in boston.	19	1
+320	how is the weather there today? it is cloudy and cool here in boston.	it is hot. but thankfully not humid today.	19	0
+321	it is hot. but thankfully not humid today.	hello, how are you doing?	20	1
+322	hello, how are you doing?	hello.	20	0
+323	hello.	pretty good, thanks.	20	0
+324	pretty good, thanks.	and yourself?	20	0
+325	and yourself?	awesome, i just got back from a bike ride.	20	0
+326	awesome, i just got back from a bike ride.	cool! do you spend a lot of time biking?	20	0
+327	cool! do you spend a lot of time biking?	yup. its my favorite thing to do. do you?	20	0
+328	yup. its my favorite thing to do. do you?	i love playing folk music. i actually hope to be a professional musician someday	20	0
+329	i love playing folk music. i actually hope to be a professional musician someday	that is interesting. what instruments do you play?	20	0
+330	that is interesting. what instruments do you play?	i can play the guitar and the piano and i also like to sing.	20	0
+331	i can play the guitar and the piano and i also like to sing.	i can only sing when i drink, but i do not like to do that anymore.	20	0
+332	i can only sing when i drink, but i do not like to do that anymore.	i m not a big drinker either. do you have a job?	20	1
+333	i m not a big drinker either. do you have a job?	construction, like my dad.	20	0
+334	construction, like my dad.	what do you do when you are not being a rock star	20	0
+335	what do you do when you are not being a rock star	nice! i work as a custodian. not too glamorous but it pays the bills haha	20	0
+336	nice! i work as a custodian. not too glamorous but it pays the bills haha	i feel ya. you gotta do what you gotta do.	20	0
+337	i feel ya. you gotta do what you gotta do.	exactly. do you have other hobbies besides biking?	20	0
+338	exactly. do you have other hobbies besides biking?	hello! where are you from?	21	1
+339	hello! where are you from?	hey! i am from nyc what about you?	21	0
+340	hey! i am from nyc what about you?	i am from a town outside vancouver.	21	0
+341	i am from a town outside vancouver.	so what brings you around here? are you here for work?	21	1
+342	so what brings you around here? are you here for work?	actually i am on leave right now	21	0
+343	actually i am on leave right now	oh okay. may i ask what your occupation is?	21	1
+344	oh okay. may i ask what your occupation is?	i serve in the canadian army, just as my grandfather did.	21	0
+345	i serve in the canadian army, just as my grandfather did.	how about you?	21	0
+346	how about you?	i went to college for chemistry, but i actually work in a bookstore now.	21	0
+347	i went to college for chemistry, but i actually work in a bookstore now.	oh that is cool. i do not like reading though	21	0
+348	oh that is cool. i do not like reading though	i do not care for fashion as much as you dislike reading haha	21	0
+349	i do not care for fashion as much as you dislike reading haha	i hate reading so much i dropped out of high school!	21	0
+350	i hate reading so much i dropped out of high school!	must be a very strong dislike then. i actually have a strange disdain toward the color orange	21	1
+351	must be a very strong dislike then. i actually have a strange disdain toward the color orange	why do you hate orange?	21	0
+352	why do you hate orange?	as a kid i was always bothered by this bright orange lamp my parents had	21	0
+353	as a kid i was always bothered by this bright orange lamp my parents had	that sounds scary. i was scared by my grandfather telling wwii stories	21	0
+354	that sounds scary. i was scared by my grandfather telling wwii stories	oh man must have been traumatizing. what do you do to relieve stress?	21	0
+355	oh man must have been traumatizing. what do you do to relieve stress?	hello how are you doing?	22	1
+356	hello how are you doing?	great, how are you doing today?	22	0
+357	great, how are you doing today?	i am great. what do you like to do?	22	1
+358	i am great. what do you like to do?	watching horror movies is my favorite. how about you?	22	0
+359	watching horror movies is my favorite. how about you?	i am more into comedies.	22	0
+360	i am more into comedies.	i see. what do you do for work	22	1
+361	i see. what do you do for work	i work at a bar. how about you?	22	0
+362	i work at a bar. how about you?	i used to work in hr, but now i stay home with my son.	22	0
+363	i used to work in hr, but now i stay home with my son.	that sounds very nice. how old is your kid?	22	1
+364	that sounds very nice. how old is your kid?	he is in junior high. do you have any kids?	22	0
+365	he is in junior high. do you have any kids?	i do not. i am still working on building my future.	22	0
+366	i do not. i am still working on building my future.	what do you want to do?	22	1
+367	what do you want to do?	i am not sure. i am still doing my gen eds.	22	0
+368	i am not sure. i am still doing my gen eds.	that sounds nice. do you have any family line of work that you can get in to?	22	0
+369	that sounds nice. do you have any family line of work that you can get in to?	hey there how is it going?	23	1
+370	hey there how is it going?	hello. all is moving great. and you?	23	0
+371	hello. all is moving great. and you?	i am good just putting hair dye in	23	0
+372	i am good just putting hair dye in	alright.	23	1
+373	alright.	i work in it.	23	1
+374	i work in it.	if you do not mind, what work are you into?	23	1
+375	if you do not mind, what work are you into?	oh right how i am between jobs	23	0
+376	oh right how i am between jobs	the economic situation seem to be gradually picking up though	23	0
+377	the economic situation seem to be gradually picking up though	cool, i am addicted to the internet	23	1
+378	cool, i am addicted to the internet	since you are addicted to internet, do you watch a lot of american sports?	23	0
+379	since you are addicted to internet, do you watch a lot of american sports?	i play a lot of role playing games	23	0
+380	i play a lot of role playing games	ok. do you like dogs?	23	1
+381	ok. do you like dogs?	yeah dogs are pretty cool	23	0
+382	yeah dogs are pretty cool	do you think that the internet is pretty safe for children of late?	23	1
+383	do you think that the internet is pretty safe for children of late?	it can be but it ca be a danger too	23	0
+384	it can be but it ca be a danger too	ok.	23	1
+385	ok.	speaking about work, i have been at the same company for about 15 years	23	1
+386	speaking about work, i have been at the same company for about 15 years	that is actually pretty impressive	23	0
+387	that is actually pretty impressive	i kind of wonder why employees are not keen on loyalty these days	23	0
+388	i kind of wonder why employees are not keen on loyalty these days	hello, what are you doing today?	24	1
+389	hello, what are you doing today?	i am thinking about my upcoming retirement. how about you?	24	0
+390	i am thinking about my upcoming retirement. how about you?	just raising my kids, i am a homemaking dad.	24	0
+391	just raising my kids, i am a homemaking dad.	very cool. my kids are grown. i am already 60 years old.	24	0
+392	very cool. my kids are grown. i am already 60 years old.	i am not there yet. my oldest in a junior.	24	0
+393	i am not there yet. my oldest in a junior.	how old is your youngest?	24	0
+394	how old is your youngest?	she is 9. i love them all. what work did you do before retiring?	24	1
+395	she is 9. i love them all. what work did you do before retiring?	i work as a librarian, but i am going to retire in the next couple of years.	24	0
+396	i work as a librarian, but i am going to retire in the next couple of years.	that is great, i spent ten years in human services.	24	0
+397	that is great, i spent ten years in human services.	did you stop when your eldest was born?	24	0
+398	did you stop when your eldest was born?	yes, i had to.	24	0
+399	yes, i had to.	i am glad to be home.	24	0
+400	i am glad to be home.	my father helps out too.	24	0
+401	my father helps out too.	why did you have to?	24	0
+402	why did you have to?	children need love, and my wife makes more money.	24	0
+403	children need love, and my wife makes more money.	do your children like any interesting activities?	24	1
+404	do your children like any interesting activities?	no, we just go to home depot on the weekends.	24	0
+405	no, we just go to home depot on the weekends.	my father was manager there.	24	0
+406	my father was manager there.	do you like to travel?	24	1
+407	do you like to travel?	hello. do you know of any apartments for rent?	25	1
+408	hello. do you know of any apartments for rent?	hi there. hmm i am not familiar with any. which area are you looking?	25	0
+409	hi there. hmm i am not familiar with any. which area are you looking?	jacksonville. i work at burger king and do not use drugs if that helps.	25	0
+410	jacksonville. i work at burger king and do not use drugs if that helps.	maybe you can expand your options if you find another career.	25	0
+411	maybe you can expand your options if you find another career.	i am only 19. just graduated.	25	0
+412	i am only 19. just graduated.	congratulations.	25	0
+413	congratulations.	i work in construction, started when i was 16.	25	0
+414	i work in construction, started when i was 16.	it is great money.	25	0
+415	it is great money.	that is cool.	25	0
+416	that is cool.	my friends and i work here, we are hoping to buy our own franchise.	25	0
+417	my friends and i work here, we are hoping to buy our own franchise.	wow that is ambitious. i hope you succeed. personally i prefer mexican food over burgers.	25	1
+418	wow that is ambitious. i hope you succeed. personally i prefer mexican food over burgers.	i prefer seafood. my dad makes awesome fish tacos.	25	0
+419	i prefer seafood. my dad makes awesome fish tacos.	that sounds delicious. what type of music do you like?	25	1
+420	that sounds delicious. what type of music do you like?	metal. mainly metallica. i also love old school rap. tupac is where it is at.	25	0
+421	metal. mainly metallica. i also love old school rap. tupac is where it is at.	nice.	25	0
+422	nice.	i listen to a lot of aerosmith, they are my favorite.	25	0
+423	i listen to a lot of aerosmith, they are my favorite.	i like them too. dream on is one of my favorites	25	0
+424	i like them too. dream on is one of my favorites	great song. how long have you worked for burger king?	25	1
+425	great song. how long have you worked for burger king?	hello , my name is ally.	26	1
+426	hello , my name is ally.	and my favourite color is orange.	26	1
+427	and my favourite color is orange.	do you know the game starcraft? i helped designing it!	26	1
+428	do you know the game starcraft? i helped designing it!	that s awesome, i m sure my ex boyfriend would like that game	26	0
+429	that s awesome, i m sure my ex boyfriend would like that game	i usually stream the game on my twitch channel	26	0
+430	i usually stream the game on my twitch channel	that s great, i also love twitch as well	26	0
+431	that s great, i also love twitch as well	i am making this robot right now that looks like me!	26	1
+432	i am making this robot right now that looks like me!	i like hiking in the morning before sunset	26	0
+433	i like hiking in the morning before sunset	i am kind of a nerd, i do not go out much and do not socialize.	26	0
+434	i am kind of a nerd, i do not go out much and do not socialize.	that s not bad at all	26	0
+435	that s not bad at all	the worst part about my life is that i am allergic to water	26	0
+436	the worst part about my life is that i am allergic to water	that s sad how do you drink	26	0
+437	that s sad how do you drink	i have to drink another substance that contains particles of hydrogen and oxygen	26	0
+438	i have to drink another substance that contains particles of hydrogen and oxygen	dang that kinda weird. well do you have a pet	26	1
+439	dang that kinda weird. well do you have a pet	yeah i have a cat, how about you?	26	0
+440	yeah i have a cat, how about you?	i do a pet fish	26	0
+441	i do a pet fish	that sounds awesome, but i have to go now, gotta start streaming.	26	0
+442	that sounds awesome, but i have to go now, gotta start streaming.	see ya!	26	0
+443	see ya!	hello, how are you tonight?	27	1
+444	hello, how are you tonight?	what state are you?	27	0
+445	what state are you?	i am in california, age 46	27	0
+446	i am in california, age 46	i am in ohio. 42. single and a churchgoer. you?	27	0
+447	i am in ohio. 42. single and a churchgoer. you?	i am good, and you?	27	0
+448	i am good, and you?	i stay home all day and i like it	27	0
+449	i stay home all day and i like it	that sounds boring. my dog would drive me crazy if i tried that.	27	0
+450	that sounds boring. my dog would drive me crazy if i tried that.	i love to go to church too, it help me deal with my ex..	27	0
+451	i love to go to church too, it help me deal with my ex..	my ex is straight up crazy, there is no scripture that would help him.	27	0
+452	my ex is straight up crazy, there is no scripture that would help him.	she cheated me and stay with a lawyer	27	0
+453	she cheated me and stay with a lawyer	that is horrible. i am single.	27	0
+454	that is horrible. i am single.	it takes the power of god to change people, my kids are great	27	0
+455	it takes the power of god to change people, my kids are great	yes, the goddess can change people.	27	0
+456	yes, the goddess can change people.	me too, i am a single dad, i do recordings in my studio	27	0
+457	me too, i am a single dad, i do recordings in my studio	that sounds like fun, what kind of music?	27	0
+458	that sounds like fun, what kind of music?	what do you do? do you want to meet me?	27	1
+459	what do you do? do you want to meet me?	i am sorry, i am too busy to date.	27	0
+460	i am sorry, i am too busy to date.	i record soft rock and light jazz	27	0
+461	i record soft rock and light jazz	hi there? hows it goin? whatcha havin for lunch today?	28	1
+462	hi there? hows it goin? whatcha havin for lunch today?	i am going to have pizza after meditation	28	0
+463	i am going to have pizza after meditation	me, burgers and fries every day.	28	0
+464	me, burgers and fries every day.	meditation, who!	28	0
+465	meditation, who!	whats that like?	28	0
+466	whats that like?	it is like going to a peaceful place	28	0
+467	it is like going to a peaceful place	i am at peace just bein in my house with my boyfriend. anything else you like?	28	1
+468	i am at peace just bein in my house with my boyfriend. anything else you like?	i used to like to talk	28	0
+469	i used to like to talk	not anymore? not at all? why not?	28	0
+470	not anymore? not at all? why not?	i have been silent for months now	28	0
+471	i have been silent for months now	oh, i get it.	28	0
+472	oh, i get it.	buddhist monk, eh?	28	0
+473	buddhist monk, eh?	something like that. where do you live	28	1
+474	something like that. where do you live	in my house, with my boyfriend.	28	0
+475	in my house, with my boyfriend.	how come you can chat if you cant speak?	28	0
+476	how come you can chat if you cant speak?	i am not allowed to vocalize	28	0
+477	i am not allowed to vocalize	ok. where do you live? in a monastery?	28	1
+478	ok. where do you live? in a monastery?	i am thinking about it	28	0
+479	i am thinking about it	any other cool thoughts? what do you think about when you meditate?	28	0
+480	any other cool thoughts? what do you think about when you meditate?	i wish for world peace	28	0
+481	i wish for world peace	hello! how are you today?	29	1
+482	hello! how are you today?	i am good! just finished working. you?	29	0
+483	i am good! just finished working. you?	i am great! i just got back from a walk with my dog! how was work?	29	0
+484	i am great! i just got back from a walk with my dog! how was work?	it was tiring. trying to get the fields harvested for winter.	29	0
+485	it was tiring. trying to get the fields harvested for winter.	oh you are a farmer? what do you grow? winter is coming too soon!	29	0
+486	oh you are a farmer? what do you grow? winter is coming too soon!	we grow corn and soybeans at my parents farm. what dog do you have?	29	1
+487	we grow corn and soybeans at my parents farm. what dog do you have?	he is a black lab named is trooper, he is a great hiking buddy!	29	0
+488	he is a black lab named is trooper, he is a great hiking buddy!	cute! where do you hike? my pet will not travel. she is a cow	29	1
+489	cute! where do you hike? my pet will not travel. she is a cow	i hike in the mountains here in colorado near pueblo. are there mountains near you?	29	0
+490	i hike in the mountains here in colorado near pueblo. are there mountains near you?	no i live in the middle of no where. miles of country.	29	0
+491	no i live in the middle of no where. miles of country.	where is the middle of no where? i live near denver for work.	29	0
+492	where is the middle of no where? i live near denver for work.	pennsylvania. amish country. i feel out of place driving my big truck next to buggies	29	0
+493	pennsylvania. amish country. i feel out of place driving my big truck next to buggies	i would be afraid of hitting them with my car!	29	0
+494	i would be afraid of hitting them with my car!	yeah. that is why i blast my country music. they hear me coming!	29	0
+495	yeah. that is why i blast my country music. they hear me coming!	haha! i like to listen to garth brookes when i am rock climbing at the gym!	29	0
+496	haha! i like to listen to garth brookes when i am rock climbing at the gym!	oh wow! i never did that before! sounds fun!	29	0
+497	oh wow! i never did that before! sounds fun!	i see you laughing there. you better not be laughing at my mini van.	30	1
+498	i see you laughing there. you better not be laughing at my mini van.	i would never do that. i hate my grey dog barnaby and scorpions.	30	0
+499	i would never do that. i hate my grey dog barnaby and scorpions.	my fourth son hates scorpions too. i do not understand my children.	30	0
+500	my fourth son hates scorpions too. i do not understand my children.	keep trying. i like grey vans but a nascar car killed my daddy.	30	1
+501	keep trying. i like grey vans but a nascar car killed my daddy.	sounds like he liked a glass of wine in the evenings.	30	0
+502	sounds like he liked a glass of wine in the evenings.	he does.	30	0
+503	he does.	barnaby is grey, a german shepherd and he hates scorpions too.	30	0
+504	barnaby is grey, a german shepherd and he hates scorpions too.	kids these days. scorpions are the only thing i ever hear about while coaching.	30	0
+505	kids these days. scorpions are the only thing i ever hear about while coaching.	mom says we are going to sue nascar for killing daddy.	30	0
+506	mom says we are going to sue nascar for killing daddy.	if you can you should go for it. toss me some coffee money when it comes through.	30	0
+507	if you can you should go for it. toss me some coffee money when it comes through.	sure, but you have to get in line.	30	0
+508	sure, but you have to get in line.	my grey dog barnaby is dying too.	30	0
+509	my grey dog barnaby is dying too.	you know my fifth son keeps asking me for a dog. it is just too much.	30	0
+510	you know my fifth son keeps asking me for a dog. it is just too much.	he can have mine. barnaby needs a new home.	30	0
+511	he can have mine. barnaby needs a new home.	i have to decline, my fifth son is my least favorite ; we keep him in the attic.	30	0
+512	i have to decline, my fifth son is my least favorite ; we keep him in the attic.	oh okay. does he play with scorpions or dogs?	30	0
+513	oh okay. does he play with scorpions or dogs?	our scorpion pit is located in the basement.	30	0
+514	our scorpion pit is located in the basement.	great! my dad died in a scorpion pit while driving a nascar car. you dance?	30	1
+515	great! my dad died in a scorpion pit while driving a nascar car. you dance?	hello how are you today?	31	1
+516	hello how are you today?	good you?	31	0
+517	good you?	coloring my adult coloring book, do you like them?	31	0
+518	coloring my adult coloring book, do you like them?	no i think they are for whinny illiterate millennials	31	0
+519	no i think they are for whinny illiterate millennials	well how rude of you. where do you live?	31	1
+520	well how rude of you. where do you live?	in nyc i work from my condo	31	0
+521	in nyc i work from my condo	glad we do not live close.	31	0
+522	glad we do not live close.	i am from a rural part of the u.	31	0
+523	i am from a rural part of the u.	s.	31	0
+524	s.	, we farm.	31	0
+525	, we farm.	cars is what i spend everything on	31	1
+526	cars is what i spend everything on	that is cool. do you like hockey?	31	1
+527	that is cool. do you like hockey?	i love it all those pucks	31	0
+528	i love it all those pucks	i do too. especially nhl. have any pets?	31	1
+529	i do too. especially nhl. have any pets?	i have dogs and cats	31	0
+530	i have dogs and cats	i have one dog, he is a german shepherd.	31	0
+531	i have one dog, he is a german shepherd.	do you like fruits or veggies better?	31	1
+532	do you like fruits or veggies better?	fruits, what about you?	31	0
+533	fruits, what about you?	i really like oranges a lot	31	0
+534	i really like oranges a lot	they are decent! my favorite is strawberries.	31	0
+535	they are decent! my favorite is strawberries.	hi how are we doing this late night in october?	32	1
+536	hi how are we doing this late night in october?	i am great! just been looking on twitter at news	32	0
+537	i am great! just been looking on twitter at news	yes let us get to know each other bit that is cool.	32	0
+538	yes let us get to know each other bit that is cool.	tell me about yourself?	32	0
+539	tell me about yourself?	i like to gamble on my spare nights not cool huh.	32	0
+540	i like to gamble on my spare nights not cool huh.	depends if you win or not lol	32	0
+541	depends if you win or not lol	yes it sucks loosing i also enjoy lawn mowing on sunny days.	32	0
+542	yes it sucks loosing i also enjoy lawn mowing on sunny days.	i enjoy green living and just put solar panels on roof	32	0
+543	i enjoy green living and just put solar panels on roof	sounds interesting i also love grilling my food outdoors.	32	0
+544	sounds interesting i also love grilling my food outdoors.	yummy, i love cookouts.	32	0
+545	yummy, i love cookouts.	i am involved women rights movement	32	0
+546	i am involved women rights movement	that is good i have not been working for a few years.	32	0
+547	that is good i have not been working for a few years.	i work from home doing internet searches	32	0
+548	i work from home doing internet searches	great wished i could get a work at home job.	32	0
+549	great wished i could get a work at home job.	it has its benefits. i have plenty time tend my organic garden	32	0
+550	it has its benefits. i have plenty time tend my organic garden	that sounds interesting i like organic foods.	32	0
+551	that sounds interesting i like organic foods.	they are so healthy for you	32	0
+552	they are so healthy for you	hello, how are you doing tonight?	33	1
+553	hello, how are you doing tonight?	good, how are you tonight?	33	0
+554	good, how are you tonight?	i am great, just chillin playing some guitar	33	0
+555	i am great, just chillin playing some guitar	awesome, what are you playing?	33	0
+556	awesome, what are you playing?	hank williams.... i grew up on country music	33	0
+557	hank williams.... i grew up on country music	i like country too! i am kinda tired tonight from a long day at the shipyard.	33	0
+558	i like country too! i am kinda tired tonight from a long day at the shipyard.	oh yea? what do you do there?	33	0
+559	oh yea? what do you do there?	i am newly retired from the navy. i am a captain	33	0
+560	i am newly retired from the navy. i am a captain	very cool... i sing for a living!	33	0
+561	very cool... i sing for a living!	that is amazing! living the dream huh?	33	0
+562	that is amazing! living the dream huh?	yes, absolutely!	33	0
+563	yes, absolutely!	gonna make it big one day	33	0
+564	gonna make it big one day	i hope you do! my passion is making a difference in the world.	33	0
+565	i hope you do! my passion is making a difference in the world.	that is amazing. we need more people like that!	33	0
+566	that is amazing. we need more people like that!	do you volunteer with any charities	33	0
+567	do you volunteer with any charities	sadly, no i do not	33	0
+568	sadly, no i do not	i highly encourage you to, especially after you make it big!	33	0
+569	i highly encourage you to, especially after you make it big!	hi how are you	34	1
+570	hi how are you	i am doing well today	34	0
+571	i am doing well today	do you like playing musical instruments?	34	1
+572	do you like playing musical instruments?	i like the drums a lot	34	0
+573	i like the drums a lot	i play several and my father played violin! what else do you like?	34	0
+574	i play several and my father played violin! what else do you like?	i can tell you what i do not like	34	0
+575	i can tell you what i do not like	what do you not like?	34	0
+576	what do you not like?	school. i really really do not like it	34	0
+577	school. i really really do not like it	i do not like school much either	34	0
+578	i do not like school much either	at least we are on the same page	34	0
+579	at least we are on the same page	do you like volunteering anywhere in your city?	34	1
+580	do you like volunteering anywhere in your city?	i do not like people	34	0
+581	i do not like people	i like people and exploring new places in the city. do you like animals?	34	1
+582	i like people and exploring new places in the city. do you like animals?	i do. they are quiet and peaceful.	34	0
+583	i do. they are quiet and peaceful.	that is awesome. is there anything else you like or do not like?	34	0
+584	that is awesome. is there anything else you like or do not like?	i do not like people	34	0
+585	i do not like people	hello, call of duty is my favorite game.	35	1
+586	hello, call of duty is my favorite game.	do you game?	35	1
+587	do you game?	yes i do after all i am a engineer.	35	0
+588	yes i do after all i am a engineer.	nice. my cousin is an engineer and hates video games. but i love donuts.	35	0
+589	nice. my cousin is an engineer and hates video games. but i love donuts.	i am actually a recording engineer. do you have kids?	35	1
+590	i am actually a recording engineer. do you have kids?	so is my cousin, so cool!	35	1
+591	so is my cousin, so cool!	no kids, but i do love icp, the band.	35	1
+592	no kids, but i do love icp, the band.	oh ok. i am a single dad. and my recording artist died last year. bad luck!	35	0
+593	oh ok. i am a single dad. and my recording artist died last year. bad luck!	wow, you ok?	35	0
+594	wow, you ok?	did your artist use a ford pinto?	35	0
+595	did your artist use a ford pinto?	that is what i drive.	35	0
+596	that is what i drive.	i am fine. he just had a n accident here in california.	35	0
+597	i am fine. he just had a n accident here in california.	i do live rpg events over the weekends.	35	1
+598	i do live rpg events over the weekends.	that is cool. i am 46 how about you?	35	1
+599	that is cool. i am 46 how about you?	i turn 83 in a month.	35	0
+600	i turn 83 in a month.	. oh wow. are you retired?	35	0
+601	. oh wow. are you retired?	no, i professionally stream on twitch.	35	0
+602	no, i professionally stream on twitch.	oh i have never heard of that.	35	0
+603	oh i have never heard of that.	it is a streaming platform for gamers.	35	0
+604	it is a streaming platform for gamers.	oh ok, i guess i do not know much on the music side.	35	0
+605	oh ok, i guess i do not know much on the music side.	hi lets get to know each other	36	1
+606	hi lets get to know each other	that sounds awfully familiar to me.	36	0
+607	that sounds awfully familiar to me.	do you enjoy sports much?	36	1
+608	do you enjoy sports much?	i football is the best. go alabama tide!	36	0
+609	i football is the best. go alabama tide!	football is good. i prefer solo stuff. i am a gymnast	36	0
+610	football is good. i prefer solo stuff. i am a gymnast	i have a brother and 3 sisters	36	1
+611	i have a brother and 3 sisters	are you guys close? i am an only child	36	0
+612	are you guys close? i am an only child	no.	36	0
+613	no.	we are not , i am more closer to my dogs.	36	0
+614	we are not , i am more closer to my dogs.	honestly.	36	0
+615	honestly.	too bad.	36	0
+616	too bad.	but at least you have them, what breeds?	36	0
+617	but at least you have them, what breeds?	ok i will be sure too	36	0
+618	ok i will be sure too	what kinds of dogs are they?	36	0
+619	what kinds of dogs are they?	i already told that to you	36	0
+620	i already told that to you	sorry i only see that you are close to them	36	0
+621	sorry i only see that you are close to them	ok then. well its been nice chatting with you	36	0
+622	ok then. well its been nice chatting with you	i guess you too. are you leaving now?	36	0
+623	i guess you too. are you leaving now?	thought this was over, guess not	36	0
+624	thought this was over, guess not	hello! how are you today?	37	1
+625	hello! how are you today?	my favorite type of music is from the south	37	0
+626	my favorite type of music is from the south	awesome!	37	0
+627	awesome!	i really like dancing to that kind of music, especially in the moonlight.	37	0
+628	i really like dancing to that kind of music, especially in the moonlight.	i am the head worker of a small store	37	1
+629	i am the head worker of a small store	very nice, what does your store sell?	37	0
+630	very nice, what does your store sell?	my store sells everything you could possibly need!	37	0
+631	my store sells everything you could possibly need!	great, are there weights?	37	0
+632	great, are there weights?	i am strong for my age, but would like to get stronger	37	0
+633	i am strong for my age, but would like to get stronger	there are weights for sure!	37	0
+634	there are weights for sure!	guess how old i am!	37	1
+635	guess how old i am!	i am not sure? how old are you?!?	37	0
+636	i am not sure? how old are you?!?	i am 100!	37	0
+637	i am 100!	i feel like at this point, i might live forever.	37	0
+638	i feel like at this point, i might live forever.	i have a very nice car! it is a pathfinder by the company nissan!	37	1
+639	i have a very nice car! it is a pathfinder by the company nissan!	nice, when did you get it?	37	0
+640	nice, when did you get it?	i got it this year! i love it	37	0
+641	i got it this year! i love it	hello friend, have you ever seen dog agility?	38	1
+642	hello friend, have you ever seen dog agility?	it is my favorite sport!	38	1
+643	it is my favorite sport!	i have not it sounds interesting	38	0
+644	i have not it sounds interesting	i compete at it, when i am not dancing	38	0
+645	i compete at it, when i am not dancing	cool! my only pet is a cow	38	0
+646	cool! my only pet is a cow	are you a dairy farmer or something like that?	38	1
+647	are you a dairy farmer or something like that?	yes.	38	0
+648	yes.	my parents are , i work for them.	38	0
+649	my parents are , i work for them.	cool.	38	1
+650	cool.	i do not care for fashion, but i do wear western clothes when i line dance	38	1
+651	i do not care for fashion, but i do wear western clothes when i line dance	i live line dancing to country music, that is all i listen too	38	0
+652	i live line dancing to country music, that is all i listen too	me too. i discovered my love for it while getting my degree in chemistry.	38	0
+653	me too. i discovered my love for it while getting my degree in chemistry.	cool! i am always playing country in my big truck!	38	0
+654	cool! i am always playing country in my big truck!	it was the only station i could get in my laboratory, and now i am hooked	38	0
+655	it was the only station i could get in my laboratory, and now i am hooked	lol chemistry seems like an interesting career.	38	0
+656	lol chemistry seems like an interesting career.	i would not know, i work at a book store now.	38	0
+657	i would not know, i work at a book store now.	cool, do you like to read?	38	0
+658	cool, do you like to read?	love it. james joyce is my favorite author.	38	0
+659	love it. james joyce is my favorite author.	awesome, i hardly ever read.	38	0
+660	awesome, i hardly ever read.	hello how are you today?	39	1
+661	hello how are you today?	exhausted! i was out clubbing all weekend. my legs are tired from grinding.	39	0
+662	exhausted! i was out clubbing all weekend. my legs are tired from grinding.	really?	39	0
+663	really?	i have not done that in years , i am just a lonely.	39	0
+664	i have not done that in years , i am just a lonely.	are you ok? i know chemistry. i could make you an aspirin!	39	0
+665	are you ok? i know chemistry. i could make you an aspirin!	i am ok my husband is a doctor so i can get any medicine i want	39	0
+666	i am ok my husband is a doctor so i can get any medicine i want	wow, good for him.	39	1
+667	wow, good for him.	i just work in a bookstore...	39	1
+668	i just work in a bookstore...	oh wow.	39	0
+669	oh wow.	that cool , you get free knowlege.	39	0
+670	that cool , you get free knowlege.	i majored in chemistry so i already have enough knowledge for a lifetime.	39	0
+671	i majored in chemistry so i already have enough knowledge for a lifetime.	really that is awesome do you have a girlfriend?	39	1
+672	really that is awesome do you have a girlfriend?	no. all of the girls here wear orange. i hate orange.	39	0
+673	no. all of the girls here wear orange. i hate orange.	do you want one? i could leave my husband for you	39	0
+674	do you want one? i could leave my husband for you	wow that is saucy. just one rule wear anything you want but orange things.	39	0
+675	wow that is saucy. just one rule wear anything you want but orange things.	that is my favorite color.	39	1
+676	that is my favorite color.	though , can you handle my three story mortgage?	39	1
+677	though , can you handle my three story mortgage?	i am already deep in student loans, so i do not care!	39	0
+678	i am already deep in student loans, so i do not care!	whats your average salary i need to know since my family grows	39	1
+679	whats your average salary i need to know since my family grows	about 15k. i spend most of that on weekend clubs and raves though.	39	0
+680	about 15k. i spend most of that on weekend clubs and raves though.	hi, just got back from riding my horse!	40	1
+681	hi, just got back from riding my horse!	you?	40	1
+682	you?	hey, i am in high school and i want to be a physical therapist.	40	0
+683	hey, i am in high school and i want to be a physical therapist.	good for you!	40	0
+684	good for you!	i do some farming, so i might be calling you!	40	0
+685	i do some farming, so i might be calling you!	awesome! i make all as in school so i could help you!	40	0
+686	awesome! i make all as in school so i could help you!	great, i hope you like music, i rock out when i work!	40	1
+687	great, i hope you like music, i rock out when i work!	yes, i love music!	40	0
+688	yes, i love music!	so we can definitely rock out.	40	0
+689	so we can definitely rock out.	i have a couple horses, and they like to rock, too!	40	0
+690	i have a couple horses, and they like to rock, too!	cool! i am a homecoming queen that loves horses.	40	0
+691	cool! i am a homecoming queen that loves horses.	you must be very popular and a good person, too.	40	0
+692	you must be very popular and a good person, too.	yes, i set a goal to actually run a k this year too!	40	1
+693	yes, i set a goal to actually run a k this year too!	i get my exercise tending the farm!	40	1
+694	i get my exercise tending the farm!	i am sure you do! i bet it is fun there!	40	0
+695	i am sure you do! i bet it is fun there!	come run a few laps here, it is quite a few acres!	40	0
+696	come run a few laps here, it is quite a few acres!	i just might do that! i want to achieve my goal of running a k!	40	0
+697	i just might do that! i want to achieve my goal of running a k!	i am sure you will succeed and win the race, too!	40	0
+698	i am sure you will succeed and win the race, too!	i hope so! after i get out of high school i want to run more!	40	0
+699	i hope so! after i get out of high school i want to run more!	hello. my wife left with the kids two weeks ago.	41	1
+700	hello. my wife left with the kids two weeks ago.	i understand because i have dogs too.	41	1
+701	i understand because i have dogs too.	i am an rn in a nursing home. we have dogs there.	41	0
+702	i am an rn in a nursing home. we have dogs there.	i hate dogs but love to knit its kind of my passion	41	1
+703	i hate dogs but love to knit its kind of my passion	the ladies here knit, while watching the pastors on tv.	41	1
+704	the ladies here knit, while watching the pastors on tv.	i am an atheist.	41	1
+705	i am an atheist.	you are just scared of dying like me. that is why only love baking cookies.	41	1
+706	you are just scared of dying like me. that is why only love baking cookies.	no, i am not.	41	0
+707	no, i am not.	i work with dead people all the time.	41	0
+708	i work with dead people all the time.	sure... i am heading back home to the country so i can enter a bake sale.	41	1
+709	sure... i am heading back home to the country so i can enter a bake sale.	i am overweight, bake sales are not a good idea for me.	41	0
+710	i am overweight, bake sales are not a good idea for me.	i do not think we should be friends	41	1
+711	i do not think we should be friends	i did not realize we had to be.	41	0
+712	i did not realize we had to be.	i just wanted to stop talking to you really	41	0
+713	i just wanted to stop talking to you really	then do not respond, no rule says you have to speak to everyone that says hello.	41	0
+714	then do not respond, no rule says you have to speak to everyone that says hello.	rules?	41	0
+715	rules?	what rules are you talking about dude, no cookies for you	41	0
+716	what rules are you talking about dude, no cookies for you	wow. you may want to see a therapist with all of that anger you have.	41	0
+717	wow. you may want to see a therapist with all of that anger you have.	i love cookies and bake sale but you are freaking me out.	41	0
+718	i love cookies and bake sale but you are freaking me out.	hey how are you doing tonight?	42	1
+719	hey how are you doing tonight?	hi there, how are you?	42	0
+720	hi there, how are you?	doing good, watching friday, my favorite, and looking on indeed.	42	1
+721	doing good, watching friday, my favorite, and looking on indeed.	i teach in the summers?	42	1
+722	i teach in the summers?	awesome!	42	1
+723	awesome!	maybe you could help my daughter, she is so smart.	42	1
+724	maybe you could help my daughter, she is so smart.	does she own dogs like me?	42	1
+725	does she own dogs like me?	no we do not.	42	1
+726	no we do not.	we would not have time, with my busy schedule.	42	1
+727	we would not have time, with my busy schedule.	i am a pediatrician	42	1
+728	i am a pediatrician	i always go to church	42	0
+729	i always go to church	that is cool. what grade do you teach?	42	1
+730	that is cool. what grade do you teach?	i hold an outdoor class	42	0
+731	i hold an outdoor class	oh wow! what is it about?	42	0
+732	oh wow! what is it about?	i teach walking and hiking mostly	42	0
+733	i teach walking and hiking mostly	so a gym teacher? or trainer?	42	0
+734	so a gym teacher? or trainer?	i do not really like labels	42	0
+735	i do not really like labels	well okay then lol i am not sure if that would be a label	42	0
+736	well okay then lol i am not sure if that would be a label	do you have any pets?	42	1
+737	do you have any pets?	hi there how are you tonight?	43	1
+738	hi there how are you tonight?	well. better now that i am in remission. how are you?	43	0
+739	well. better now that i am in remission. how are you?	wow well i am glad for you congrats my step mom is going through stage 4	43	0
+740	wow well i am glad for you congrats my step mom is going through stage 4	so sorry to hear that. she is in my thoughts.	43	0
+741	so sorry to hear that. she is in my thoughts.	thanks are you married? any kids?	43	1
+742	thanks are you married? any kids?	i have many kids and grandkids to keep me busy. how about you?	43	0
+743	i have many kids and grandkids to keep me busy. how about you?	i have 2 kids with my spouse	43	0
+744	i have 2 kids with my spouse	how wonderful. life is precious spend as much time with them as possible.	43	0
+745	how wonderful. life is precious spend as much time with them as possible.	yea but i love time to my self as well like every year i see rolling stones	43	1
+746	yea but i love time to my self as well like every year i see rolling stones	that sounds like fun. i enjoy making clothes for my family.	43	1
+747	that sounds like fun. i enjoy making clothes for my family.	really i use to dumpster dive to recycle clothes for homeless no lie	43	0
+748	really i use to dumpster dive to recycle clothes for homeless no lie	helping others makes life meaningful and i cherish it more now.	43	0
+749	helping others makes life meaningful and i cherish it more now.	well now with my major in economics i love guiding people with there money	43	1
+750	well now with my major in economics i love guiding people with there money	too bad my cell phone broke. i would love to text you about my finances.	43	0
+751	too bad my cell phone broke. i would love to text you about my finances.	o no yea i am always willing to help	43	0
+752	o no yea i am always willing to help	great we should exchange emails!	43	0
+753	great we should exchange emails!	just got back from playing with barnaby, my dog!	44	1
+754	just got back from playing with barnaby, my dog!	i just watched snoop and martha	44	1
+755	i just watched snoop and martha	cool, i deliver mail, and get a lot of martha catalogues!	44	0
+756	cool, i deliver mail, and get a lot of martha catalogues!	i love to eat vegetables and unique things	44	1
+757	i love to eat vegetables and unique things	that is great, i like my food grey, the color i like on everything!	44	1
+758	that is great, i like my food grey, the color i like on everything!	awesome, i just came here from another country	44	1
+759	awesome, i just came here from another country	wonderful, i hope there are no scorpions there, they scare me!	44	0
+760	wonderful, i hope there are no scorpions there, they scare me!	do you like adventure i do	44	0
+761	do you like adventure i do	i like fast cars, nascar was what my father did!	44	0
+762	i like fast cars, nascar was what my father did!	awesome does he like to go to germany	44	1
+763	awesome does he like to go to germany	oh, of course, it is beautiful there!	44	0
+764	oh, of course, it is beautiful there!	maybe he can skydive to see a better view	44	0
+765	maybe he can skydive to see a better view	ha ha! that would be great! you skydive?	44	0
+766	ha ha! that would be great! you skydive?	i want to but no highest i got was rollercoasters	44	0
+767	i want to but no highest i got was rollercoasters	i just finished spending some time watching birdy fly with my cats.	45	1
+768	i just finished spending some time watching birdy fly with my cats.	hello i am sara who are you	45	1
+769	hello i am sara who are you	i am just an old man with rainbow hair	45	0
+770	i am just an old man with rainbow hair	i am 7 and i have powers that no one knows about	45	0
+771	i am 7 and i have powers that no one knows about	i have powers too as an animal activist!	45	0
+772	i have powers too as an animal activist!	i can make the whole world pause! freeze time	45	0
+773	i can make the whole world pause! freeze time	that makes me kind of depressed, but not as much as holidays do	45	1
+774	that makes me kind of depressed, but not as much as holidays do	awe i love christmas you do not like it?	45	0
+775	awe i love christmas you do not like it?	no because nobody comes to visit me i spend it alone	45	0
+776	no because nobody comes to visit me i spend it alone	awe i am lonely a lot too i live in a orphanage	45	0
+777	awe i am lonely a lot too i live in a orphanage	that is very unfortunate of you, maybe you should come live with me!	45	0
+778	that is very unfortunate of you, maybe you should come live with me!	do you have room for me?	45	0
+779	do you have room for me?	yeah i have a house with 3 bedrooms and i am the only one here	45	0
+780	yeah i have a house with 3 bedrooms and i am the only one here	wow that is a huge house	45	0
+781	wow that is a huge house	yeah i would love some company!	45	0
+782	yeah i would love some company!	you would not be scared of my super powers	45	0
+783	you would not be scared of my super powers	hello, how are you today?	46	1
+784	hello, how are you today?	not bad at all, rain got in the way though.	46	0
+785	not bad at all, rain got in the way though.	how are you?	46	0
+786	how are you?	i am doing well. where is it raining?	46	0
+787	i am doing well. where is it raining?	ma. i was gonna finish a roof today. at least the cats will not miss me	46	1
+788	ma. i was gonna finish a roof today. at least the cats will not miss me	my cat just got out, i hope she comes home soon the streets are busy.	46	0
+789	my cat just got out, i hope she comes home soon the streets are busy.	ooh, if one of mine got out i would panic.	46	0
+790	ooh, if one of mine got out i would panic.	ya the streets of bejing are not kind to a little kitten.	46	0
+791	ya the streets of bejing are not kind to a little kitten.	i will say, hope you find her soon.	46	0
+792	i will say, hope you find her soon.	so otherwise how is your day?	46	0
+793	so otherwise how is your day?	it was pretty decent. i won my ping pong match.	46	0
+794	it was pretty decent. i won my ping pong match.	i am terrible at that game , give me a hammer.	46	0
+795	i am terrible at that game , give me a hammer.	not a paddle.	46	0
+796	not a paddle.	what other kinds of things do you fix.	46	0
+797	what other kinds of things do you fix.	i build houses, sometimes i fix them, have my dads genes.	46	0
+798	i build houses, sometimes i fix them, have my dads genes.	maybe i do too. he is an electrician i pay electric guitar.	46	0
+799	maybe i do too. he is an electrician i pay electric guitar.	close enough i suppose, my dad put a hammer in my hand at 2.	46	0
+800	close enough i suppose, my dad put a hammer in my hand at 2.	hello, how are you?	47	1
+801	hello, how are you?	did you major in chemistry too?	47	1
+802	did you major in chemistry too?	i am angry. my parents keep making me go to school even though i hate it	47	0
+803	i am angry. my parents keep making me go to school even though i hate it	omg me too!	47	0
+804	omg me too!	i graduated, but ended up working at a bookstore!	47	0
+805	i graduated, but ended up working at a bookstore!	dose your bookstore sell p o box? i know some do and i love it.	47	0
+806	dose your bookstore sell p o box? i know some do and i love it.	sorry, no, and they went out of business.	47	0
+807	sorry, no, and they went out of business.	it was a weird fashion hipster place.	47	0
+808	it was a weird fashion hipster place.	i do not have that many friends to play with anyways. how old are you?	47	1
+809	i do not have that many friends to play with anyways. how old are you?	i am 35. but i still go dancing on the weekends! how old are you?	47	0
+810	i am 35. but i still go dancing on the weekends! how old are you?	12. i want to leave school as soon as i am old enough.	47	0
+811	12. i want to leave school as soon as i am old enough.	do you have a hobby? mine is competing in dog agility. makes the time pass...	47	1
+812	do you have a hobby? mine is competing in dog agility. makes the time pass...	i stay away from other girls that are jealous of my long red hair and blue eyes	47	0
+813	i stay away from other girls that are jealous of my long red hair and blue eyes	good decision!	47	0
+814	good decision!	i usually do not care about fashion, but i like doing hair color.	47	0
+815	i usually do not care about fashion, but i like doing hair color.	oh cool. have you done anything else fun?	47	0
+816	oh cool. have you done anything else fun?	i bleached my hair. black now blond. just hate that orange between the two bleaches.	47	0
+817	i bleached my hair. black now blond. just hate that orange between the two bleaches.	i do not bleach my hair. mine is natural and goes down to my waist	47	0
+818	i do not bleach my hair. mine is natural and goes down to my waist	hi how are you, i am from a small area, where are you from?	48	1
+819	hi how are you, i am from a small area, where are you from?	hi there i am from america but my family moved down to south america	48	0
+820	hi there i am from america but my family moved down to south america	cool, i lives in america all my life, i live in a small town	48	0
+821	cool, i lives in america all my life, i live in a small town	i used to live in minnesota	48	0
+822	i used to live in minnesota	are there many lawyers there? i would love to be a lawyer	48	1
+823	are there many lawyers there? i would love to be a lawyer	uh i have no idea	48	0
+824	uh i have no idea	i would love to move to a big city and become a lawyer	48	0
+825	i would love to move to a big city and become a lawyer	ok sure i want to make computer like my dad used to	48	0
+826	ok sure i want to make computer like my dad used to	that is great , please.	48	0
+827	that is great , please.	tell me more interesting things.	48	0
+828	tell me more interesting things.	i had a friend named noah we were friends from ever since we met at 1	48	0
+829	i had a friend named noah we were friends from ever since we met at 1	cool, do you still talk to him?	48	0
+830	cool, do you still talk to him?	ya not as much since we moved here	48	0
+831	ya not as much since we moved here	how do you like your new life since you moved?	48	0
+832	how do you like your new life since you moved?	it is not so fun i have 2 friend who speak a different langues	48	0
+833	it is not so fun i have 2 friend who speak a different langues	man i really need to go to the bathroom, what language they speak?	48	0
+834	man i really need to go to the bathroom, what language they speak?	hmong and french my dad can translate because he speaks hmong and english	48	0
+835	hmong and french my dad can translate because he speaks hmong and english	hi want to be my friend?	49	1
+836	hi want to be my friend?	sure. do you like to dance?	49	0
+837	sure. do you like to dance?	i know how but it is not my favorite. i learned at prep school	49	0
+838	i know how but it is not my favorite. i learned at prep school	what was your favorite subject in school?	49	0
+839	what was your favorite subject in school?	i guess math. i am hoping to get into finance	49	0
+840	i guess math. i am hoping to get into finance	i like math too. chemistry was my favorite subject in school.	49	0
+841	i like math too. chemistry was my favorite subject in school.	that is cool are you a chemist now?	49	0
+842	that is cool are you a chemist now?	yeah, i have been for the last 5 years.	49	0
+843	yeah, i have been for the last 5 years.	good for you. where do you live?	49	1
+844	good for you. where do you live?	i live in chicago. what about you?	49	0
+845	i live in chicago. what about you?	i am in manhattan. best city in the world	49	0
+846	i am in manhattan. best city in the world	manhattan does have good pizza.	49	0
+847	manhattan does have good pizza.	so i hear. i am more into sushi	49	0
+848	so i hear. i am more into sushi	i am not a fan of sushi, i like mexican food.	49	0
+849	i am not a fan of sushi, i like mexican food.	well we have that here too. we have it all	49	0
+850	well we have that here too. we have it all	does everyone in manhattan have good fashion?	49	1
+851	does everyone in manhattan have good fashion?	hello. i am dawn. who are you?	50	1
+852	hello. i am dawn. who are you?	hello. i am leigh. i am at a park i have never been to.	50	0
+853	hello. i am leigh. i am at a park i have never been to.	cool. what park? i won homecoming queen and went to the park that night	50	0
+854	cool. what park? i won homecoming queen and went to the park that night	not sure. i was just exploring the city and found it. how old are you?	50	0
+855	not sure. i was just exploring the city and found it. how old are you?	i am 16. currently in high school. how old are you?	50	0
+856	i am 16. currently in high school. how old are you?	i am 34 and i play many instruments. are you in band?	50	1
+857	i am 34 and i play many instruments. are you in band?	i am in band at school. i make straight as! what instruments do you play?	50	0
+858	i am in band at school. i make straight as! what instruments do you play?	i play trombone, alto sax, baritone, and trumpet.	50	0
+859	i play trombone, alto sax, baritone, and trumpet.	you?	50	0
+860	you?	i play the sax. do you run? my goal is to run a k!	50	1
+861	i play the sax. do you run? my goal is to run a k!	i do not run. i am constantly moving at the shelter i work at though.	50	0
+862	i do not run. i am constantly moving at the shelter i work at though.	you should try to run! its fun! moving is good too!	50	0
+863	you should try to run! its fun! moving is good too!	no!	50	1
+864	no!	i will start violin as a new hobby, like my father.	50	1
+865	i will start violin as a new hobby, like my father.	i did play the violin last year in band. i did not like it	50	0
+866	i did play the violin last year in band. i did not like it	it is not for everyone. my dad made his living. i will try.	50	0
+867	it is not for everyone. my dad made his living. i will try.	did you go to homecoming when you were in school? i had a blast at mine	50	1
+868	did you go to homecoming when you were in school? i had a blast at mine	i did not go. who did you go with?	50	0
+869	i did not go. who did you go with?	hi there!	51	1
+870	hi there!	i love to dance, what do you do for fun?	51	1
+871	i love to dance, what do you do for fun?	oh cool. pole dancing? well i am only 4 and enjoy coloring.	51	0
+872	oh cool. pole dancing? well i am only 4 and enjoy coloring.	how would you know what pole dancing is then, dear?	51	0
+873	how would you know what pole dancing is then, dear?	my mom is a pole dancer. my pet turtle is my best friend.	51	0
+874	my mom is a pole dancer. my pet turtle is my best friend.	that is so sweet. is that your only friend?	51	0
+875	that is so sweet. is that your only friend?	ya they live next door. and my dolls. i live a sheltered life.	51	0
+876	ya they live next door. and my dolls. i live a sheltered life.	that is ok! you have plenty of time to grow and learn. i am from far away.	51	1
+877	that is ok! you have plenty of time to grow and learn. i am from far away.	like in the clouds? i do not really get to see sunlight.	51	0
+878	like in the clouds? i do not really get to see sunlight.	my aunt helped me to escape a dangerous place. now i live a better life.	51	0
+879	my aunt helped me to escape a dangerous place. now i live a better life.	were you a slave? sometimes i have to food found in alleys.	51	1
+880	were you a slave? sometimes i have to food found in alleys.	i lived in somalia and had to fight to survive. you will make it!	51	0
+881	i lived in somalia and had to fight to survive. you will make it!	do you own fully automatic rifles then?	51	0
+882	do you own fully automatic rifles then?	oh honey no, guns are not the answer.	51	0
+883	oh honey no, guns are not the answer.	would not that just be your personal view?	51	0
+884	would not that just be your personal view?	you are only 4, you should not be worrying about this	51	0
+885	you are only 4, you should not be worrying about this	my guns have dolls. some of them would not be alive today if they did not.	51	0
+886	my guns have dolls. some of them would not be alive today if they did not.	hello, my name is leon.	52	1
+887	hello, my name is leon.	i am a audio engineer.	52	1
+888	i am a audio engineer.	how are you?	52	1
+889	how are you?	hello, leon.	52	0
+890	hello, leon.	my dogs and i are doing well.	52	0
+891	my dogs and i are doing well.	that is good to hear!	52	1
+892	that is good to hear!	i have been better, my girlfriend just left me.	52	1
+893	i have been better, my girlfriend just left me.	oh no. i go to the gym a lot. the treadmill keeps my mind off things.	52	0
+894	oh no. i go to the gym a lot. the treadmill keeps my mind off things.	i tend to stick indoors but maybe the gym will help, thanks.	52	0
+895	i tend to stick indoors but maybe the gym will help, thanks.	you are most welcome. the rowing machine is nice too.	52	0
+896	you are most welcome. the rowing machine is nice too.	that is a full body work out right there. do you live in california?	52	1
+897	that is a full body work out right there. do you live in california?	sadly, no.	52	0
+898	sadly, no.	my dogs and i are in ohio.	52	0
+899	my dogs and i are in ohio.	i think i need to move. my studio is tanking after the decline of the market.	52	0
+900	i think i need to move. my studio is tanking after the decline of the market.	oh no. i am moving soon as well. due to personal reasons.	52	0
+901	oh no. i am moving soon as well. due to personal reasons.	well i hope your reasons work themselves out. what kind of dogs do you have?	52	1
+902	well i hope your reasons work themselves out. what kind of dogs do you have?	i have a springer spaniel and a lab. do you have pets?	52	0
+903	i have a springer spaniel and a lab. do you have pets?	sadly no, they can be very destructive in an audio booth.	52	0
+904	sadly no, they can be very destructive in an audio booth.	that is for sure. what kind of music?	52	1
+905	that is for sure. what kind of music?	hello, how are you doing tonight?	53	1
+906	hello, how are you doing tonight?	great just got back from the gym i go twice a day every day.	53	0
+907	great just got back from the gym i go twice a day every day.	i am a teacher, and do not have time to go more than twice a week.	53	0
+908	i am a teacher, and do not have time to go more than twice a week.	bummer my fav exercised are the treadmill and rowing machine	53	0
+909	bummer my fav exercised are the treadmill and rowing machine	i love the beach and go for every vacation.	53	0
+910	i love the beach and go for every vacation.	i have to go to the gym a lot because i eat a lot	53	0
+911	i have to go to the gym a lot because i eat a lot	i am always on a diet, gotta stay bikini ready.	53	0
+912	i am always on a diet, gotta stay bikini ready.	cool i eat a lot when i am bored. pets?	53	1
+913	cool i eat a lot when i am bored. pets?	i have one dog, she is amazing.	53	0
+914	i have one dog, she is amazing.	i have 2 dogs. i should take them walking instead of eating.	53	0
+915	i have 2 dogs. i should take them walking instead of eating.	that would be a great idea.	53	0
+916	that would be a great idea.	i have been thinking of growing my hair long it is so short.	53	1
+917	i have been thinking of growing my hair long it is so short.	a change of style is always a good confidence booster.	53	0
+918	a change of style is always a good confidence booster.	yeah, that is a nice thought.	53	1
+919	yeah, that is a nice thought.	do you have kids?	53	1
+920	do you have kids?	i do not. my fiance and i do not want any.	53	0
+921	i do not. my fiance and i do not want any.	well, you will have more free time without them anyway.	53	0
+922	well, you will have more free time without them anyway.	how are you doing today	54	1
+923	how are you doing today	great thanks. what are you doing?	54	0
+924	great thanks. what are you doing?	i am playing my favorite game	54	0
+925	i am playing my favorite game	hat game?	54	0
+926	hat game?	i love games as well, being 13 and all.	54	0
+927	i love games as well, being 13 and all.	no it is on xbox	54	0
+928	no it is on xbox	i have an xbox too. my older brother never will let me play though.	54	0
+929	i have an xbox too. my older brother never will let me play though.	that is not very nice	54	0
+930	that is not very nice	no, and i cry about it whilst i am on the bus for school.	54	0
+931	no, and i cry about it whilst i am on the bus for school.	very sad.	54	0
+932	very sad.	what do your friends think	54	0
+933	what do your friends think	they try to help me.	54	1
+934	they try to help me.	they also help me with my math, i am terrible at that.	54	1
+935	they also help me with my math, i am terrible at that.	i do not like it either. love music	54	0
+936	i do not like it either. love music	i prefer soccer, but what music do you like?	54	0
+937	i prefer soccer, but what music do you like?	i like all kinds of music	54	0
+938	i like all kinds of music	do you like soccer like i do? i play every weekend.	54	0
+939	do you like soccer like i do? i play every weekend.	i play it once in a while	54	0
+940	i play it once in a while	nice, my big brother plays soccer with me sometimes.	54	0
+941	nice, my big brother plays soccer with me sometimes.	hello. do you play any instruments?	55	1
+942	hello. do you play any instruments?	no i do not but i love dancing wildly to party music. do you own any pets?	55	1
+943	no i do not but i love dancing wildly to party music. do you own any pets?	i do. i have a dog.	55	0
+944	i do. i have a dog.	cool! i own a dog too! as well as a cat. do you have a favorite movie?	55	1
+945	cool! i own a dog too! as well as a cat. do you have a favorite movie?	no, not really.	55	0
+946	no, not really.	i like sci fi, as it drives my parents crazy.	55	0
+947	i like sci fi, as it drives my parents crazy.	that is cool, but i do not really like sci fi.	55	0
+948	that is cool, but i do not really like sci fi.	do you read sci fi?	55	0
+949	do you read sci fi?	no.	55	0
+950	no.	i watch sci fi.	55	0
+951	i watch sci fi.	mainly, i read supernatural romances.	55	0
+952	mainly, i read supernatural romances.	what kind of supernatural romances?	55	0
+953	what kind of supernatural romances?	any of them that are interesting	55	0
+954	any of them that are interesting	cool! do you like parties?	55	1
+955	cool! do you like parties?	i do. we sing folk songs at most of ours. i play guitar.	55	0
+956	i do. we sing folk songs at most of ours. i play guitar.	awesome! i love parties. i go wild at them.	55	0
+957	awesome! i love parties. i go wild at them.	i do not drink or do drugs.	55	0
+958	i do not drink or do drugs.	ok ok. what do you do besides play guitar?	55	1
+959	ok ok. what do you do besides play guitar?	i am a custodian and a security guard.	55	0
+960	i am a custodian and a security guard.	interesting! is that hard to do?	55	0
+961	interesting! is that hard to do?	hi! how are you this evening?	56	1
+962	hi! how are you this evening?	i am well! just got back from taking a walk.	56	0
+963	i am well! just got back from taking a walk.	same here! i am a professional dog walker. just walked two labs.	56	0
+964	same here! i am a professional dog walker. just walked two labs.	oh that sounds fun. i like dogs.	56	0
+965	oh that sounds fun. i like dogs.	me too! i love kayaking almost as much.	56	0
+966	me too! i love kayaking almost as much.	i love hamburgers and french fries, but not soda.	56	1
+967	i love hamburgers and french fries, but not soda.	are you married?	56	1
+968	are you married?	no, single.	56	0
+969	no, single.	i just graduated college.	56	0
+970	i just graduated college.	you?	56	0
+971	you?	i am married and we just bought a house.	56	0
+972	i am married and we just bought a house.	oh, very cool.	56	0
+973	oh, very cool.	i hope you two like it.	56	0
+974	i hope you two like it.	yes it is nice. is kayaking dangerous?	56	1
+975	yes it is nice. is kayaking dangerous?	depends on where you do it.	56	0
+976	depends on where you do it.	on rapids, yes.	56	0
+977	on rapids, yes.	on streams, not so much.	56	0
+978	on streams, not so much.	i see. what did you major in?	56	1
+979	i see. what did you major in?	psychology. i read a lot of psych journals in my free time as well.	56	0
+980	psychology. i read a lot of psych journals in my free time as well.	that sounds like a lot of work.	56	0
+981	that sounds like a lot of work.	it was. getting started on the phd next year.	56	0
+982	it was. getting started on the phd next year.	education is something that no one can ever take away.	56	0
+983	education is something that no one can ever take away.	hello. how are you today?	57	1
+984	hello. how are you today?	good today. just cooking some mexican food. i cooking but am not very good.	57	0
+985	good today. just cooking some mexican food. i cooking but am not very good.	oh.	57	0
+986	oh.	i like mexican food , but my favorite food are cheeseburgers.	57	0
+987	i like mexican food , but my favorite food are cheeseburgers.	i inherited some money and bought a yacht to travel, i try different foods traveling	57	1
+988	i inherited some money and bought a yacht to travel, i try different foods traveling	i help out at a soup kitchen since i grew up poor.	57	0
+989	i help out at a soup kitchen since i grew up poor.	cheeseburgers are great, i try all kinds of foods everywhere i go, gotta love food.	57	0
+990	cheeseburgers are great, i try all kinds of foods everywhere i go, gotta love food.	yes, do you like war documentaries?	57	1
+991	yes, do you like war documentaries?	i do	57	1
+992	i do	i like travel logs and have been all over the world for years since high school	57	0
+993	i like travel logs and have been all over the world for years since high school	sounds great, i am retired, i was a gym teacher	57	1
+994	sounds great, i am retired, i was a gym teacher	i need a job and will put my yacht up for rent. i could teach.	57	0
+995	i need a job and will put my yacht up for rent. i could teach.	sounds like a good plan, what would you like to teach?	57	0
+996	sounds like a good plan, what would you like to teach?	economics would be my first choice.	57	0
+997	economics would be my first choice.	that sounds good, i bet you would be a good teacher.	57	0
+998	that sounds good, i bet you would be a good teacher.	i would try. what hobbies do you have now that you are retired?	57	1
+999	i would try. what hobbies do you have now that you are retired?	watching was documentaries, how about you?	57	0
+1000	watching was documentaries, how about you?	i like cooking shows. i should probably take some classes to improve.	57	0
+1001	i like cooking shows. i should probably take some classes to improve.	stay at home.	58	1
+1002	stay at home.	dad here , son is a junior in high school.	58	1
+1003	dad here , son is a junior in high school.	yo whats up my man	58	0
+1004	yo whats up my man	not much my father used to work at home depot	58	0
+1005	not much my father used to work at home depot	you sound like you are trying to rush through your character	58	0
+1006	you sound like you are trying to rush through your character	i love scary horror movies, do you?	58	1
+1007	i love scary horror movies, do you?	yup, nice to get it out of the way	58	1
+1008	yup, nice to get it out of the way	not very ethical in my opinion	58	0
+1009	not very ethical in my opinion	yeah, well awesome man.	58	0
+1010	yeah, well awesome man.	i like to be positive	58	0
+1011	i like to be positive	i play music and i rock	58	1
+1012	i play music and i rock	yeah? well in real life i play music and rock	58	0
+1013	yeah? well in real life i play music and rock	my favorite word is trabajo	58	0
+1014	my favorite word is trabajo	yeah it fits you well	58	0
+1015	yeah it fits you well	i am going to study french next	58	1
+1016	i am going to study french next	cool, good luck with that	58	0
+1017	cool, good luck with that	i also study ebonics and sh	58	0
+1018	i also study ebonics and sh	awesome you are stellar, maybe become president?	58	0
+1019	awesome you are stellar, maybe become president?	no you should do that	58	0
+1020	no you should do that	hi! how is it going?	59	1
+1021	hi! how is it going?	i had surgery a week ago now i have stranger powers	59	0
+1022	i had surgery a week ago now i have stranger powers	wow, like what?!	59	0
+1023	wow, like what?!	a week ago i just moved to my new house.	59	0
+1024	a week ago i just moved to my new house.	i am just a boy with a heart outside my body	59	0
+1025	i am just a boy with a heart outside my body	that is not where it belongs.	59	0
+1026	that is not where it belongs.	had a brain transplant now i move objects with my mind	59	0
+1027	had a brain transplant now i move objects with my mind	my son says he can do the same after watching star wars	59	0
+1028	my son says he can do the same after watching star wars	your son sounds really awesome	59	0
+1029	your son sounds really awesome	he is unique. he has been acting weird since finding out i am pregnant.	59	0
+1030	he is unique. he has been acting weird since finding out i am pregnant.	wow congrats that is so cool	59	0
+1031	wow congrats that is so cool	thanks but it makes my job at the bank really hard.	59	1
+1032	thanks but it makes my job at the bank really hard.	i bet, are you banking on a girl or boy?	59	0
+1033	i bet, are you banking on a girl or boy?	two girls. i am hoping they are omnivores like me.	59	0
+1034	two girls. i am hoping they are omnivores like me.	yeah nice job getting all those blue sentences in!	59	0
+1035	yeah nice job getting all those blue sentences in!	i do not know what you are talking about. are you feeling ok?	59	0
+1036	i do not know what you are talking about. are you feeling ok?	yes i am thanks so much!	59	0
+1037	yes i am thanks so much!	hello, how are you?	60	1
+1038	hello, how are you?	i am a feminist.	60	1
+1039	i am a feminist.	oh my i just love country music! do you?	60	1
+1040	oh my i just love country music! do you?	only if they are female singers. solar panels are all over my roof.	60	0
+1041	only if they are female singers. solar panels are all over my roof.	solar panels rock! i have actually met the taylor swift herself	60	0
+1042	solar panels rock! i have actually met the taylor swift herself	seriously!? i only buy organic food like taylor swift.	60	0
+1043	seriously!? i only buy organic food like taylor swift.	that is great. i manage a convenience store	60	0
+1044	that is great. i manage a convenience store	wow. can i have organic stuff? i am browsing the internet a lot.	60	0
+1045	wow. can i have organic stuff? i am browsing the internet a lot.	oh of course!	60	0
+1046	oh of course!	i drive a pathfinder, nissan, i need a new one	60	0
+1047	i drive a pathfinder, nissan, i need a new one	try to win one off of a twitter contest.	60	0
+1048	try to win one off of a twitter contest.	i did, and enjoy twitter.	60	0
+1049	i did, and enjoy twitter.	i did not know there was a twitter contest	60	0
+1050	i did not know there was a twitter contest	ya, are you a female?	60	1
+1051	ya, are you a female?	yes i am, i am 40 years old	60	0
+1052	yes i am, i am 40 years old	females rock. my armpits are very hairy.	60	0
+1053	females rock. my armpits are very hairy.	are you a woman? if hair is your thing yay you	60	0
+1054	are you a woman? if hair is your thing yay you	yes i am a woman. i used to raise wild frogs.	60	1
+1055	yes i am a woman. i used to raise wild frogs.	oh.	60	0
+1056	oh.	i love frogs , and frog legs.	60	0
+1057	i love frogs , and frog legs.	hello! how are you this evening?	61	1
+1058	hello! how are you this evening?	good. watching the race. and you?	61	0
+1059	good. watching the race. and you?	ok, for someone with their heart outside their body.	61	0
+1060	ok, for someone with their heart outside their body.	oh man. how did that happen?	61	0
+1061	oh man. how did that happen?	born that way.	61	0
+1062	born that way.	had to have a transplant, but it seems ok now.	61	0
+1063	had to have a transplant, but it seems ok now.	crazy. what do you do to stay happy?	61	1
+1064	crazy. what do you do to stay happy?	i really like moving stuff with my mind. and you?	61	0
+1065	i really like moving stuff with my mind. and you?	what! i just need some good tacos and nascar.	61	0
+1066	what! i just need some good tacos and nascar.	i know, sounds unbelievable but its true.	61	0
+1067	i know, sounds unbelievable but its true.	i like tacos.	61	0
+1068	i like tacos.	the guys i work with make some great ones on fridays.	61	0
+1069	the guys i work with make some great ones on fridays.	awesome. where do you work?	61	1
+1070	awesome. where do you work?	i work in construction. started when i was 16.	61	0
+1071	i work in construction. started when i was 16.	that is pretty young. i would like to do that kind of work.	61	0
+1072	that is pretty young. i would like to do that kind of work.	i think that mind you have can make you more money.	61	0
+1073	i think that mind you have can make you more money.	i do not tell anyone about it. they will come take me away.	61	0
+1074	i do not tell anyone about it. they will come take me away.	take you away from where?	61	0
+1075	take you away from where?	hi. just got done with my training run. training for a marathon.	62	1
+1076	hi. just got done with my training run. training for a marathon.	nice! i just like to eat food haha.	62	0
+1077	nice! i just like to eat food haha.	after surviving cancer, i try to stay healthy	62	1
+1078	after surviving cancer, i try to stay healthy	i try to eat healthy but it does not help when i can not cook well	62	0
+1079	i try to eat healthy but it does not help when i can not cook well	yeah. maybe i could help. i am a recently hired life coach.	62	0
+1080	yeah. maybe i could help. i am a recently hired life coach.	i been across the globe for years eating food and now i am fat.	62	0
+1081	i been across the globe for years eating food and now i am fat.	well take baby steps. i am fortunate my parents were into sports.	62	0
+1082	well take baby steps. i am fortunate my parents were into sports.	i will rent you my yacht for free for helping!	62	0
+1083	i will rent you my yacht for free for helping!	okay. that is a plan. we should meet for a run.	62	0
+1084	okay. that is a plan. we should meet for a run.	sure! the last time i ran was when i was 13 which was like 10 years ago!	62	0
+1085	sure! the last time i ran was when i was 13 which was like 10 years ago!	okay we will start with a half mile. baby steps.	62	0
+1086	okay we will start with a half mile. baby steps.	i can cook for us after our run. i need the practice haha!	62	0
+1087	i can cook for us after our run. i need the practice haha!	i will not make a mess, but lets eat healthy, okay?	62	0
+1088	i will not make a mess, but lets eat healthy, okay?	how about a salad then?	62	0
+1089	how about a salad then?	sounds good. maybe a lite dressing with it.	62	0
+1090	sounds good. maybe a lite dressing with it.	what is your favorite dressing?	62	0
+1091	what is your favorite dressing?	hello.	63	1
+1092	hello.	do you like painting?	63	1
+1093	do you like painting?	i used to be a painter, it was a good life.	63	1
+1094	i used to be a painter, it was a good life.	hello, i like wine and coffee.	63	0
+1095	hello, i like wine and coffee.	drank a lot of both in my 56 years on this darned planet.	63	0
+1096	drank a lot of both in my 56 years on this darned planet.	i coach little league and have five boys, i need both to help me deal with them.	63	1
+1097	i coach little league and have five boys, i need both to help me deal with them.	i have two kids of my own, grown up now.	63	0
+1098	i have two kids of my own, grown up now.	they never visit.	63	0
+1099	they never visit.	ungrateful.	63	0
+1100	ungrateful.	i am stuck with mine awhile, along with my mini van.	63	1
+1101	i am stuck with mine awhile, along with my mini van.	i wish i could buy a car. i cannot afford it on a housekeeper wage.	63	0
+1102	i wish i could buy a car. i cannot afford it on a housekeeper wage.	maybe you should find a second job.	63	0
+1103	maybe you should find a second job.	where, at hooters?	63	0
+1104	where, at hooters?	i am 56 year old woman, not what i used to be...	63	0
+1105	i am 56 year old woman, not what i used to be...	age is only a number. you are only as old as you allow yourself to be.	63	0
+1106	age is only a number. you are only as old as you allow yourself to be.	i like your optimism, i suppose i could learn a thing or two.	63	0
+1107	i like your optimism, i suppose i could learn a thing or two.	it is never too late to learn. i am going to photography school.	63	1
+1108	it is never too late to learn. i am going to photography school.	i do not think art is the right choice, it did not do me any good.	63	0
+1109	i do not think art is the right choice, it did not do me any good.	then it was not your calling, it is mine.	63	0
+1110	then it was not your calling, it is mine.	sometimes one has to give up their dreams so someone else can have theirs.	63	0
+1111	sometimes one has to give up their dreams so someone else can have theirs.	no, you find your own dream.	63	0
+1112	no, you find your own dream.	hi my name is jill how are you today?	64	1
+1113	hi my name is jill how are you today?	i am doing well. about to go to my job at burger king.	64	0
+1114	i am doing well. about to go to my job at burger king.	what do you do there at burger king?	64	0
+1115	what do you do there at burger king?	i am only 19 and work the grill. i just want to have fun with friends.	64	0
+1116	i am only 19 and work the grill. i just want to have fun with friends.	that is cool i still attend high school	64	1
+1117	that is cool i still attend high school	i want to move out. i am drug and booze free though.	64	0
+1118	i want to move out. i am drug and booze free though.	what kind of fun do you and your friends like?	64	1
+1119	what kind of fun do you and your friends like?	i play music. i am going to be a rockstar.	64	0
+1120	i play music. i am going to be a rockstar.	i hate drugs and do not drink either what kind of music do you play?	64	0
+1121	i hate drugs and do not drink either what kind of music do you play?	scottish black metal. i play electric bag pipes.	64	0
+1122	scottish black metal. i play electric bag pipes.	wow i have never heard of electric bagpipes. are there any videos of them on you tube?	64	0
+1123	wow i have never heard of electric bagpipes. are there any videos of them on you tube?	yeah, i have videos of me on there.	64	0
+1124	yeah, i have videos of me on there.	i invented them.	64	0
+1125	i invented them.	they are sweet.	64	0
+1126	they are sweet.	i am sorry but i do not think you ever told me your name.	64	1
+1127	i am sorry but i do not think you ever told me your name.	my name is cletus huckleberry. nice to meet you.	64	0
+1128	my name is cletus huckleberry. nice to meet you.	hello, how are you doing today?	65	1
+1129	hello, how are you doing today?	i am well, how are you?	65	0
+1130	i am well, how are you?	good. just got back from a nice long walk with my dog.	65	0
+1131	good. just got back from a nice long walk with my dog.	cool. so what do you do for fun?	65	1
+1132	cool. so what do you do for fun?	well i play tennis professionally and take care of my growing family.	65	0
+1133	well i play tennis professionally and take care of my growing family.	i am a dj. really into eighties hip hop	65	0
+1134	i am a dj. really into eighties hip hop	nice, do you have any pets or children?	65	1
+1135	nice, do you have any pets or children?	nope no kids or pets. what about you?	65	0
+1136	nope no kids or pets. what about you?	yes, 2 dogs and 3 soon to be 4 children!	65	0
+1137	yes, 2 dogs and 3 soon to be 4 children!	good thing i have a big house	65	0
+1138	good thing i have a big house	that is a pretty big family.. must be hectic	65	0
+1139	that is a pretty big family.. must be hectic	very much!	65	0
+1140	very much!	and my husband is a doctor, so he is never home.	65	0
+1141	and my husband is a doctor, so he is never home.	well at least he makes a lot of money lol	65	0
+1142	well at least he makes a lot of money lol	true. do you have any hobbies?	65	1
+1143	true. do you have any hobbies?	i like to dance and cook. you?	65	0
+1144	i like to dance and cook. you?	mostly read and walk. where are you from?	65	1
+1145	mostly read and walk. where are you from?	i am from boston massachusetts	65	0
+1146	i am from boston massachusetts	hi! trying to hangout online to not have to listen to hubby watching sports!	66	1
+1147	hi! trying to hangout online to not have to listen to hubby watching sports!	what sports is he into?	66	0
+1148	what sports is he into?	he and i both love most sports, but i prefer track and he likes golf!	66	0
+1149	he and i both love most sports, but i prefer track and he likes golf!	i like swimming. i coach locally.	66	0
+1150	i like swimming. i coach locally.	you do? how fun. are you a guy or girl?	66	1
+1151	you do? how fun. are you a guy or girl?	a guy. where abouts are you?	66	1
+1152	a guy. where abouts are you?	hawaii. moved here from texas and love the blue ocean and skies here	66	0
+1153	hawaii. moved here from texas and love the blue ocean and skies here	i d love to see america. i hope to work there one day. i live in india.	66	0
+1154	i d love to see america. i hope to work there one day. i live in india.	that sounds wonderful as well. a bit hot maybe	66	0
+1155	that sounds wonderful as well. a bit hot maybe	the humidity is lethal. texas gets pretty hot though doesn t it?	66	0
+1156	the humidity is lethal. texas gets pretty hot though doesn t it?	horrible. humid too. i prefer hi since besides running i surf.	66	0
+1157	horrible. humid too. i prefer hi since besides running i surf.	wow. you sound cool. i code and listen to music. boring life.	66	0
+1158	wow. you sound cool. i code and listen to music. boring life.	just start creating using music and code. not boring but creative!	66	0
+1159	just start creating using music and code. not boring but creative!	my programming skills will need some work, i m still studying.	66	0
+1160	my programming skills will need some work, i m still studying.	that s okay. at least you re still growing and moving forward	66	0
+1161	that s okay. at least you re still growing and moving forward	my mother thinks i should just get married and stay in india.	66	0
+1162	my mother thinks i should just get married and stay in india.	hi, i just got an apartment with my best friend!	67	1
+1163	hi, i just got an apartment with my best friend!	very nice! my boyfriend and i move into our new on next tuesday	67	0
+1164	very nice! my boyfriend and i move into our new on next tuesday	awesome, i do not care for chicken, but i am a blonde with blue eyes	67	1
+1165	awesome, i do not care for chicken, but i am a blonde with blue eyes	do you like photography? i do it as a side business.	67	1
+1166	do you like photography? i do it as a side business.	yeah, i sure do, i take lots at the bar, i work there, saving for college	67	0
+1167	yeah, i sure do, i take lots at the bar, i work there, saving for college	i teach fourth graders, most nights i need a drink.	67	0
+1168	i teach fourth graders, most nights i need a drink.	yeah.	67	0
+1169	yeah.	i hear ya man , i really do teach fourth graders.	67	0
+1170	i hear ya man , i really do teach fourth graders.	do you have a girlfriend? my boyfriend says i am always playing matchmaker.	67	1
+1171	do you have a girlfriend? my boyfriend says i am always playing matchmaker.	i do not too busy with my band and teaching	67	0
+1172	i do not too busy with my band and teaching	what subject do you teach? i teach history.	67	1
+1173	what subject do you teach? i teach history.	i teach piano, and vocals	67	0
+1174	i teach piano, and vocals	how many languages do you speak? i am up to three.	67	1
+1175	how many languages do you speak? i am up to three.	i am at 2, spanish and english	67	0
+1176	i am at 2, spanish and english	i speak those and french. do you like red or silver?	67	1
+1177	i speak those and french. do you like red or silver?	i like silver more, i think it looks sharp, especially chrome	67	0
+1178	i like silver more, i think it looks sharp, especially chrome	i am more partial to the muted tones of each color.	67	0
+1179	i am more partial to the muted tones of each color.	hello, how are you today?	68	1
+1180	hello, how are you today?	i am very well! how are you?	68	0
+1181	i am very well! how are you?	i am tired, now i am just taking a break from unpacking boxes.	68	0
+1182	i am tired, now i am just taking a break from unpacking boxes.	i like listening to rap music	68	1
+1183	i like listening to rap music	with kids in my house i can not listen to rap anymore.	68	0
+1184	with kids in my house i can not listen to rap anymore.	i understand. did you attend college?	68	1
+1185	i understand. did you attend college?	yes i am a teacher at a local school. what do you do?	68	0
+1186	yes i am a teacher at a local school. what do you do?	i am a college student at a local university	68	0
+1187	i am a college student at a local university	what are you going to school for?	68	0
+1188	what are you going to school for?	athletic training! it is interesting	68	0
+1189	athletic training! it is interesting	i am about to go on maternity leave. i am having triplets soon.	68	0
+1190	i am about to go on maternity leave. i am having triplets soon.	wow! wish i was your husband	68	0
+1191	wow! wish i was your husband	we just bought our first home and now kids are filling it. lol!	68	0
+1192	we just bought our first home and now kids are filling it. lol!	i love pizza, favorite food	68	1
+1193	i love pizza, favorite food	hello. how are you tonight?	69	1
+1194	hello. how are you tonight?	ruff, hey!	69	0
+1195	ruff, hey!	ruff ruff.	69	0
+1196	ruff ruff.	how are you?	69	0
+1197	how are you?	i am good. are you a dog?	69	0
+1198	i am good. are you a dog?	nothing just singing and looking at my building blocks! ruff	69	0
+1199	nothing just singing and looking at my building blocks! ruff	i had blocks when i was little. but i am in grade 3 now!	69	0
+1200	i had blocks when i was little. but i am in grade 3 now!	not yet! but i will be soon! but i have to give up chocolate.	69	1
+1201	not yet! but i will be soon! but i have to give up chocolate.	why? chocolate is great! i get special candy in disney world every summer	69	0
+1202	why? chocolate is great! i get special candy in disney world every summer	wait... what? i am confused. dogs ca not eat chocolate and i will be a dog soon.	69	0
+1203	wait... what? i am confused. dogs ca not eat chocolate and i will be a dog soon.	you are hard to understand. let it go! let it go!	69	0
+1204	you are hard to understand. let it go! let it go!	i love snow, i can roll in it!	69	1
+1205	i love snow, i can roll in it!	dogs can not go to disney ruff	69	1
+1206	dogs can not go to disney ruff	disney has dogs! pluto is a dog! but i like mickey better! my favorite!	69	0
+1207	disney has dogs! pluto is a dog! but i like mickey better! my favorite!	maybe i can teach pluto abc song! i want to be a dog just like him!	69	0
+1208	maybe i can teach pluto abc song! i want to be a dog just like him!	you can! that would be fun. how old are you little doggy?	69	1
+1209	you can! that would be fun. how old are you little doggy?	i do not know, what do you mean?	69	0
+1210	i do not know, what do you mean?	do you like chocolate?	69	0
+1211	do you like chocolate?	hello, how are you today?	70	1
+1212	hello, how are you today?	good i live in ohio working as a doctor looking for a job in california	70	1
+1213	good i live in ohio working as a doctor looking for a job in california	i have never been to california. i work in it from home.	70	0
+1214	i have never been to california. i work in it from home.	working from home would be nice.	70	0
+1215	working from home would be nice.	i am moving for my daughter, she is a prodigy.	70	0
+1216	i am moving for my daughter, she is a prodigy.	it can be lonely, i sometimes go to the gym just for the interaction.	70	0
+1217	it can be lonely, i sometimes go to the gym just for the interaction.	very nice i go to the park for that.	70	1
+1218	very nice i go to the park for that.	do you like movies, my favorite is friday	70	1
+1219	do you like movies, my favorite is friday	i love movies, i spend a lot of time watching tv, probably too much lol	70	0
+1220	i love movies, i spend a lot of time watching tv, probably too much lol	i wish i had more time for tv, what is your favorite show?	70	1
+1221	i wish i had more time for tv, what is your favorite show?	i would say the walking dead. what about you?	70	0
+1222	i would say the walking dead. what about you?	walking dead is mine too. any hobbies?	70	1
+1223	walking dead is mine too. any hobbies?	working on my cars, what are your hobbies?	70	0
+1224	working on my cars, what are your hobbies?	chasing my daughter around, i like to paint when i can.	70	0
+1225	chasing my daughter around, i like to paint when i can.	nice i had a girlfriend that was an artist. kids are a lot of work.	70	1
+1226	nice i had a girlfriend that was an artist. kids are a lot of work.	yes they are but they are worth it. do you have kids?	70	0
+1227	yes they are but they are worth it. do you have kids?	hi want to get to know each other?	71	1
+1228	hi want to get to know each other?	sure thing. what is your job?	71	1
+1229	sure thing. what is your job?	i just got hired yesterday as a life coach, thanks for asking	71	0
+1230	i just got hired yesterday as a life coach, thanks for asking	wow, i am a dog walker.	71	0
+1231	wow, i am a dog walker.	that is way cool	71	0
+1232	that is way cool	does that make you happy? do you like dogs?	71	0
+1233	does that make you happy? do you like dogs?	yeah dogs are cool. i kayak too. do you have pets?	71	0
+1234	yeah dogs are cool. i kayak too. do you have pets?	i do not. but i am so glad you do something that brings you joy	71	0
+1235	i do not. but i am so glad you do something that brings you joy	yeah. what do you like to do?	71	1
+1236	yeah. what do you like to do?	i got really into running after i beat cancer	71	0
+1237	i got really into running after i beat cancer	wow you must be brave	71	0
+1238	wow you must be brave	just determined. i am not taking my second chance for granted	71	0
+1239	just determined. i am not taking my second chance for granted	good idea, you sound like an amazing human	71	0
+1240	good idea, you sound like an amazing human	thank you so much. it is all about clean eating and being self aware	71	0
+1241	thank you so much. it is all about clean eating and being self aware	makes sense, you would be a good role model.	71	1
+1242	makes sense, you would be a good role model.	any children?	71	1
+1243	any children?	no, not yet.	71	0
+1244	no, not yet.	do you?	71	0
+1245	do you?	yes, a new little one on the way too	71	0
+1246	yes, a new little one on the way too	hi how are you doing	72	1
+1247	hi how are you doing	i am doing very fine this afternoon. how about you?	72	0
+1248	i am doing very fine this afternoon. how about you?	i am good getting ready for school	72	0
+1249	i am good getting ready for school	what are you going to school for?	72	0
+1250	what are you going to school for?	high school i am so ready to graduate	72	0
+1251	high school i am so ready to graduate	will you be driving to or living on campus?	72	0
+1252	will you be driving to or living on campus?	i will probably be living on campus	72	0
+1253	i will probably be living on campus	what kind of music makes you feel good?	72	1
+1254	what kind of music makes you feel good?	really any kind what about you	72	0
+1255	really any kind what about you	i enjoy listening to classical music.	72	0
+1256	i enjoy listening to classical music.	that is nice do you like sports	72	1
+1257	that is nice do you like sports	it depends on the particular sport.	72	0
+1258	it depends on the particular sport.	i like to spend time with my horses	72	0
+1259	i like to spend time with my horses	i am more concerned with my religion.	72	1
+1260	i am more concerned with my religion.	hello i am in canada where are you?	73	1
+1261	hello i am in canada where are you?	i am in a jail for kids	73	0
+1262	i am in a jail for kids	for kids? that does not make sense.	73	0
+1263	for kids? that does not make sense.	i got caught shoplifting and they locked me up	73	0
+1264	i got caught shoplifting and they locked me up	how is that because of kids? did you graduate from high school? i did not.	73	1
+1265	how is that because of kids? did you graduate from high school? i did not.	i am still a kid. i want to go back to school	73	0
+1266	i am still a kid. i want to go back to school	graduate well your in jail. come out better then you went in.	73	0
+1267	graduate well your in jail. come out better then you went in.	i get out next month. my mom is visiting tomorrow	73	0
+1268	i get out next month. my mom is visiting tomorrow	well make a plan with her to get your life back on track	73	0
+1269	well make a plan with her to get your life back on track	do you work? what do you do?	73	1
+1270	do you work? what do you do?	yes in the army. you could try that when you get out	73	0
+1271	yes in the army. you could try that when you get out	do you like working in the army?	73	0
+1272	do you like working in the army?	yes it is a bit of a family thing. my grand father was in world war 2.	73	0
+1273	yes it is a bit of a family thing. my grand father was in world war 2.	i guess that made your decision to enlist easy	73	0
+1274	i guess that made your decision to enlist easy	yes it did. what do you want to do?	73	1
+1275	yes it did. what do you want to do?	i have not given much thought to what to do when i get out.	73	0
+1276	i have not given much thought to what to do when i get out.	hello! how are you today?	74	1
+1277	hello! how are you today?	great!	74	1
+1278	great!	relaxing, taking a break for a few.	74	1
+1279	relaxing, taking a break for a few.	i was playing a video game.	74	1
+1280	i was playing a video game.	what video game? i relax by knitting. love it!	74	0
+1281	what video game? i relax by knitting. love it!	i was playing fall out. what do you look like? i m blonde thin.	74	1
+1282	i was playing fall out. what do you look like? i m blonde thin.	i am an older woman who is afraid of dying.	74	0
+1283	i am an older woman who is afraid of dying.	i hope your youth was full of music. i love music.	74	1
+1284	i hope your youth was full of music. i love music.	i do not love music much now. i do love baking!	74	0
+1285	i do not love music much now. i do love baking!	me too, as i wear my favorite band t shirt s for inspiration	74	0
+1286	me too, as i wear my favorite band t shirt s for inspiration	who is your favorite band? i have a shirt with my dogs photo on it i wear.	74	0
+1287	who is your favorite band? i have a shirt with my dogs photo on it i wear.	that s cute. my favorite band is fall out boy. yours?	74	0
+1288	that s cute. my favorite band is fall out boy. yours?	waylon jennings is my favorite! next weekend is county wide bake sale. you coming?	74	0
+1289	waylon jennings is my favorite! next weekend is county wide bake sale. you coming?	i m in jersey. i m a runner. i have a marathon next weekend.	74	0
+1290	i m in jersey. i m a runner. i have a marathon next weekend.	oh good luck! the bake sale feels like a second home to me!	74	0
+1291	oh good luck! the bake sale feels like a second home to me!	i bet. what are you making? i have a great pb cookie recipe.	74	0
+1292	i bet. what are you making? i have a great pb cookie recipe.	would you share? cookies are my favorite to bake!	74	0
+1293	would you share? cookies are my favorite to bake!	1c pb, 1c sugar, 1 egg.	74	0
+1294	1c pb, 1c sugar, 1 egg.	mix and roll.	74	0
+1295	mix and roll.	bake for 10 12 mins.	74	0
+1296	bake for 10 12 mins.	hi. i just got done eating vanilla ice cream. no self control with it. you?	75	1
+1297	hi. i just got done eating vanilla ice cream. no self control with it. you?	i am the same way with rap	75	0
+1298	i am the same way with rap	rap is cool.	75	0
+1299	rap is cool.	my cats like it, both of them.	75	0
+1300	my cats like it, both of them.	i produce rap for people.	75	0
+1301	i produce rap for people.	maybe you could make a rap about my 1000 hats. i am a collector.	75	0
+1302	maybe you could make a rap about my 1000 hats. i am a collector.	sure while riding in my honda civic	75	0
+1303	sure while riding in my honda civic	when you finish that you could make a rap about my 1992 olympic gold.	75	0
+1304	when you finish that you could make a rap about my 1992 olympic gold.	then we can celebrate with pizza	75	0
+1305	then we can celebrate with pizza	yum! and vanilla ice cream.	75	0
+1306	yum! and vanilla ice cream.	right is it not the best?	75	0
+1307	right is it not the best?	sure is. it is right up there with winter. love winter.	75	1
+1308	sure is. it is right up there with winter. love winter.	it is a great time of year	75	0
+1309	it is a great time of year	so do you have other hobbies?	75	1
+1310	so do you have other hobbies?	i play the piano sometimes	75	0
+1311	i play the piano sometimes	i love piano music. do you play jazz?	75	0
+1312	i love piano music. do you play jazz?	i do sometimes for fun	75	0
+1313	i do sometimes for fun	hello! you should friend me on facebook.	76	1
+1314	hello! you should friend me on facebook.	friend ye? i hardly know ye...	76	0
+1315	friend ye? i hardly know ye...	that is true. but we can chat there too	76	0
+1316	that is true. but we can chat there too	where do you live? i am in cali.	76	1
+1317	where do you live? i am in cali.	i like in indiana. recently single since my ex left with our kids.	76	1
+1318	i like in indiana. recently single since my ex left with our kids.	my ex left me too. cheated on me as well.	76	0
+1319	my ex left me too. cheated on me as well.	i hate that. took my belief in god away	76	0
+1320	i hate that. took my belief in god away	well i am an atheist so that was not a problem for me. but it sucked.	76	0
+1321	well i am an atheist so that was not a problem for me. but it sucked.	i bet. i miss my children	76	1
+1322	i bet. i miss my children	my ex left the kids. but some days i wish she had not...	76	0
+1323	my ex left the kids. but some days i wish she had not...	i understand that. kids can be very tiring	76	0
+1324	i understand that. kids can be very tiring	do you like music? i am in the industry.	76	1
+1325	do you like music? i am in the industry.	i do. mainly classical. what do you do?	76	0
+1326	i do. mainly classical. what do you do?	i have a studio and i help people record music.	76	0
+1327	i have a studio and i help people record music.	that sounds much more fun than taking care of old people like me	76	0
+1328	that sounds much more fun than taking care of old people like me	do you work in a nursing home?	76	0
+1329	do you work in a nursing home?	hi there, i am bob.	77	1
+1330	hi there, i am bob.	hi! i am andy.	77	0
+1331	hi! i am andy.	i ended things with my boyfriend	77	0
+1332	i ended things with my boyfriend	really that is sad. i work as an elementary teacher.	77	0
+1333	really that is sad. i work as an elementary teacher.	nice, i am 18 now	77	1
+1334	nice, i am 18 now	great. my father was a teacher too so	77	1
+1335	great. my father was a teacher too so	did he hike like i do?	77	0
+1336	did he hike like i do?	no he did not. he and i enjoyed time in the beach.	77	0
+1337	no he did not. he and i enjoyed time in the beach.	i really like sunsets most	77	0
+1338	i really like sunsets most	that is really amazing. i hope you do great. ahead.	77	0
+1339	that is really amazing. i hope you do great. ahead.	do you have pets? mine is a fish	77	1
+1340	do you have pets? mine is a fish	i have a dog whom i love. your fish seems amazing.	77	0
+1341	i have a dog whom i love. your fish seems amazing.	it really is amazing as a pet	77	0
+1342	it really is amazing as a pet	i hope it will always be with you in rough times.	77	0
+1343	i hope it will always be with you in rough times.	but will be better as sushi	77	1
+1344	but will be better as sushi	i agree. they are great sushi	77	0
+1345	i agree. they are great sushi	hello i love music. are you familiar with tom petty?	78	1
+1346	hello i love music. are you familiar with tom petty?	hi! i do but i rarely have time to listen in between school and work.	78	0
+1347	hi! i do but i rarely have time to listen in between school and work.	what is the focus of your studies?	78	1
+1348	what is the focus of your studies?	are you in school too?	78	1
+1349	are you in school too?	no. i finished in 1995. what year are in?	78	0
+1350	no. i finished in 1995. what year are in?	first year, i just moved here with my best friend for school too.	78	0
+1351	first year, i just moved here with my best friend for school too.	its great to have friends. i hope you look after each other that is very important	78	0
+1352	its great to have friends. i hope you look after each other that is very important	so true! so what do you do for a living?	78	1
+1353	so true! so what do you do for a living?	i am in mining but i hate it. what is your field of interest	78	0
+1354	i am in mining but i hate it. what is your field of interest	aside from nursing, i work at a bar to pay for school.	78	0
+1355	aside from nursing, i work at a bar to pay for school.	bar work can be fun. you learn so much about human nature. thank you for caring about others	78	0
+1356	bar work can be fun. you learn so much about human nature. thank you for caring about others	of course, it is like a live sociology class too.	78	0
+1357	of course, it is like a live sociology class too.	absolutely!! the subjects are already prepped with truth serum	78	0
+1358	absolutely!! the subjects are already prepped with truth serum	i definitely agree! good perspective. why do you not like mining?	78	1
+1359	i definitely agree! good perspective. why do you not like mining?	hello how are you doing today?	79	1
+1360	hello how are you doing today?	i am great, i hope you are doing well.	79	1
+1361	i am great, i hope you are doing well.	where are you from?	79	1
+1362	where are you from?	i live in a rural area.	79	0
+1363	i live in a rural area.	i see. have you lived there for a long time? we just recently bought a home	79	0
+1364	i see. have you lived there for a long time? we just recently bought a home	no 2 years my husband birth parents live here	79	0
+1365	no 2 years my husband birth parents live here	that is very nice. life must be very relaxing outside the cities. do you have children?	79	1
+1366	that is very nice. life must be very relaxing outside the cities. do you have children?	no i have 2 dogs	79	0
+1367	no i have 2 dogs	i do not have any pets, but i may be interested in one	79	0
+1368	i do not have any pets, but i may be interested in one	what is your favorite sport to watch?	79	1
+1369	what is your favorite sport to watch?	i do not have any special interest in sports, do you have any favorite sports?	79	0
+1370	i do not have any special interest in sports, do you have any favorite sports?	i like to watch hockey.	79	0
+1371	i like to watch hockey.	i see, do you live in united states or canada?	79	1
+1372	i see, do you live in united states or canada?	i heard hockey is very popular there.	79	1
+1373	i heard hockey is very popular there.	i live in the united states. what about you?	79	0
+1374	i live in the united states. what about you?	i live in canada, i moved here very recently.	79	0
+1375	i live in canada, i moved here very recently.	what do you do for a living?	79	0
+1376	what do you do for a living?	hi, i m susie.	80	1
+1377	hi, i m susie.	how are you?	80	1
+1378	how are you?	i am good. just got back from some volunteering. how are you doing?	80	0
+1379	i am good. just got back from some volunteering. how are you doing?	are you having problems texting?	80	1
+1380	are you having problems texting?	i am an old retired guy, so i might be doing something wrong!	80	0
+1381	i am an old retired guy, so i might be doing something wrong!	i am fine, just getting ready for a walk with my dog.	80	1
+1382	i am fine, just getting ready for a walk with my dog.	that sounds like a nice time. i like to try to be active myself. i love walks.	80	0
+1383	that sounds like a nice time. i like to try to be active myself. i love walks.	that s nice. i enjoy walking. i try to do it at least once a day.	80	0
+1384	that s nice. i enjoy walking. i try to do it at least once a day.	i used to be a gym teacher so i used to be quite fit!	80	0
+1385	i used to be a gym teacher so i used to be quite fit!	wow. i m a school teacher myself. i often get exercise dealing with the kids.	80	0
+1386	wow. i m a school teacher myself. i often get exercise dealing with the kids.	definitely! although now that i am retired i find that i love eating cheeseburgers...	80	1
+1387	definitely! although now that i am retired i find that i love eating cheeseburgers...	i guess you earned the right to do it. i try to stay away from the temptation.	80	0
+1388	i guess you earned the right to do it. i try to stay away from the temptation.	yup. a cheeseburger and a war documentary are my idea of a good saturday	80	0
+1389	yup. a cheeseburger and a war documentary are my idea of a good saturday	that s funny. mine is a bottle of wine.	80	0
+1390	that s funny. mine is a bottle of wine.	that cant hurt either! what else do you like to do?	80	1
+1391	that cant hurt either! what else do you like to do?	seeing a kid learn is my passion.	80	0
+1392	seeing a kid learn is my passion.	that is just great. we need more educators like you in the system.	80	0
+1393	that is just great. we need more educators like you in the system.	hi what do you do?	81	1
+1394	hi what do you do?	i go to school. hate it! will you be my friend?	81	1
+1395	i go to school. hate it! will you be my friend?	sure! you can be friends with my 3 dogs too if you are not allergic	81	0
+1396	sure! you can be friends with my 3 dogs too if you are not allergic	oh, i am not!	81	0
+1397	oh, i am not!	i am only 12, though.	81	0
+1398	i am only 12, though.	will they like me?	81	0
+1399	will they like me?	i think they will. all of them are friendly! whats your favorite subject?	81	1
+1400	i think they will. all of them are friendly! whats your favorite subject?	i do not like school at all. and gym is the worst!	81	0
+1401	i do not like school at all. and gym is the worst!	i am always walking my dogs so gym activities are fun for me	81	0
+1402	i am always walking my dogs so gym activities are fun for me	the boys pull my waist length red hair. that hurts!	81	1
+1403	the boys pull my waist length red hair. that hurts!	aww that is not very nice of them. have you told the teachers?	81	0
+1404	aww that is not very nice of them. have you told the teachers?	no. i just cry out my blue eyes! they all make fun of me.	81	0
+1405	no. i just cry out my blue eyes! they all make fun of me.	well my dogs will not pull your hair if you ever want to spend time with them	81	0
+1406	well my dogs will not pull your hair if you ever want to spend time with them	okay, thanks!	81	1
+1407	okay, thanks!	what do you like to do?	81	1
+1408	what do you like to do?	well i like working in my dog walking business! dogs are the best	81	0
+1409	well i like working in my dog walking business! dogs are the best	better than kids, that is for sure!	81	0
+1410	better than kids, that is for sure!	i remember back in school the other kids would always be annoying	81	0
+1411	i remember back in school the other kids would always be annoying	especially when you are 12! how old are you?	81	1
+1412	especially when you are 12! how old are you?	i study languages. do you?	82	1
+1413	i study languages. do you?	wee! i have koi fish that the same color as my orange dress.	82	1
+1414	wee! i have koi fish that the same color as my orange dress.	i like orange. i am studying french next.	82	1
+1415	i like orange. i am studying french next.	great. i like hiking and need a new boyfriend as of yesterday.	82	1
+1416	great. i like hiking and need a new boyfriend as of yesterday.	what happened with that situation?	82	0
+1417	what happened with that situation?	he ate my fish that matched the color of my dress. bummer!	82	0
+1418	he ate my fish that matched the color of my dress. bummer!	he did that? how strange.	82	0
+1419	he did that? how strange.	oh, i could tell you stories.	82	1
+1420	oh, i could tell you stories.	i turned 18 yesterday.	82	1
+1421	i turned 18 yesterday.	you sing?	82	1
+1422	you sing?	i sing in the languages i study.	82	0
+1423	i sing in the languages i study.	great! you know any hiking songs?	82	0
+1424	great! you know any hiking songs?	sort of i guess. i know marching songs.	82	0
+1425	sort of i guess. i know marching songs.	that will do! i like to hike and sing and wear the color orange.	82	0
+1426	that will do! i like to hike and sing and wear the color orange.	those are good hobbies to have.	82	0
+1427	those are good hobbies to have.	those are not hobbies. they are my life work. you work?	82	1
+1428	those are not hobbies. they are my life work. you work?	i am a language scholar right now.	82	0
+1429	i am a language scholar right now.	wow! you know any spanish? what is amarillo in spanish?	82	0
+1430	wow! you know any spanish? what is amarillo in spanish?	hello how are you today?	83	1
+1431	hello how are you today?	not to bad, what about you	83	0
+1432	not to bad, what about you	i am feeling like 100 bucks	83	0
+1433	i am feeling like 100 bucks	good stuff, what you do for living	83	1
+1434	good stuff, what you do for living	i work at a museum as a guide	83	0
+1435	i work at a museum as a guide	cool, i am in the army	83	0
+1436	cool, i am in the army	i lost my hearing in the army. or at least part of it	83	1
+1437	i lost my hearing in the army. or at least part of it	wow, well thank for serving soldier	83	0
+1438	wow, well thank for serving soldier	i am now peacefully growing my garden	83	1
+1439	i am now peacefully growing my garden	i am from canada, where do you live	83	1
+1440	i am from canada, where do you live	i am from boston baby	83	0
+1441	i am from boston baby	okay, go boston haha, fav food?	83	1
+1442	okay, go boston haha, fav food?	i like them big fancy teas	83	0
+1443	i like them big fancy teas	sounds pretty yummy, did you go to college	83	1
+1444	sounds pretty yummy, did you go to college	no i did now i had all the books i needed at home	83	0
+1445	no i did now i had all the books i needed at home	i did not even make it pass highschool	83	0
+1446	i did not even make it pass highschool	hello, how are you tonight.	84	1
+1447	hello, how are you tonight.	do you like horses?	84	1
+1448	do you like horses?	hi there, yes i love horses and so does barnaby my german shepherd.	84	0
+1449	hi there, yes i love horses and so does barnaby my german shepherd.	that is a cute name. i have a lab named sirius	84	1
+1450	that is a cute name. i have a lab named sirius	yeah, barnaby is a keeper and a great scorpion spotter.	84	1
+1451	yeah, barnaby is a keeper and a great scorpion spotter.	i hate scorpions.	84	1
+1452	i hate scorpions.	i do not have them on the farm. i have seen them in the city though.	84	0
+1453	i do not have them on the farm. i have seen them in the city though.	barnaby found one in my dad old nascar cars right before i sat down.	84	0
+1454	barnaby found one in my dad old nascar cars right before i sat down.	ugh. i do not think i could live with them.	84	0
+1455	ugh. i do not think i could live with them.	only when we visit dad they come out. what do you do?	84	1
+1456	only when we visit dad they come out. what do you do?	i am in law school, but i also train horses	84	0
+1457	i am in law school, but i also train horses	that sounds cool, better than working for the us postal service.	84	0
+1458	that sounds cool, better than working for the us postal service.	i am going to be an agriculture lawyer.	84	0
+1459	i am going to be an agriculture lawyer.	now that is different. i paint in my spare time to stay sane.	84	0
+1460	now that is different. i paint in my spare time to stay sane.	i take photos of the horses and scenery.	84	0
+1461	i take photos of the horses and scenery.	they make awesome pictures. i love colors but strangely my favorite is grey!	84	1
+1462	they make awesome pictures. i love colors but strangely my favorite is grey!	mine is too, but, color is what sells.	84	0
+1463	mine is too, but, color is what sells.	yes it does, client have me painting fuschia and other wild colors weekly.	84	0
+1464	yes it does, client have me painting fuschia and other wild colors weekly.	are you in college? i am an art major	85	1
+1465	are you in college? i am an art major	i am not in college, i graduated with a doctorate degree	85	0
+1466	i am not in college, i graduated with a doctorate degree	that is neat.	85	1
+1467	that is neat.	i am visiting europe again this year, have you ever been?	85	1
+1468	i am visiting europe again this year, have you ever been?	farthest i have ever been away from home was at the park	85	0
+1469	farthest i have ever been away from home was at the park	do you have any hobbies?	85	1
+1470	do you have any hobbies?	going to the park is my favorite hobby. or going to my daughters piano concerts	85	0
+1471	going to the park is my favorite hobby. or going to my daughters piano concerts	i enjoy traveling and cooking.	85	0
+1472	i enjoy traveling and cooking.	what kind of stuff do you cook?	85	0
+1473	what kind of stuff do you cook?	paella is my favorite dish to cook.	85	0
+1474	paella is my favorite dish to cook.	i have never heard of it.	85	0
+1475	i have never heard of it.	it is a rice dish from spain.	85	0
+1476	it is a rice dish from spain.	sounds delicious, i should try it sometime	85	0
+1477	sounds delicious, i should try it sometime	are you currently working at a hospital?	85	1
+1478	are you currently working at a hospital?	yes i am but i would like a new job soon	85	0
+1479	yes i am but i would like a new job soon	i hope you find a new job soon.	85	0
+1480	i hope you find a new job soon.	thank you, i am definitely looking	85	0
+1481	thank you, i am definitely looking	hi. how are you?	86	1
+1482	hi. how are you?	hello, i am doing very well thank you.	86	0
+1483	hello, i am doing very well thank you.	i just came back from a walk.	86	0
+1484	i just came back from a walk.	ah. i love taking walks and taking pictures.	86	0
+1485	ah. i love taking walks and taking pictures.	i love photography, i am always photographing my food.	86	0
+1486	i love photography, i am always photographing my food.	my boyfriend and i will cook in our new place together next week.	86	1
+1487	my boyfriend and i will cook in our new place together next week.	that is nice, do you drink soda and eat fast food?	86	1
+1488	that is nice, do you drink soda and eat fast food?	no. trying to eat healthy in front of my elementary school class.	86	0
+1489	no. trying to eat healthy in front of my elementary school class.	i like kids, i would love to have a large family.	86	1
+1490	i like kids, i would love to have a large family.	my students are my family.	86	0
+1491	my students are my family.	how sweet! more teachers need to have that attitude.	86	0
+1492	how sweet! more teachers need to have that attitude.	i am trying to teach them spanish and french so they are fluent like me.	86	1
+1493	i am trying to teach them spanish and french so they are fluent like me.	at the same time? does that work very well?	86	0
+1494	at the same time? does that work very well?	they learn quickly so yes.	86	0
+1495	they learn quickly so yes.	i have heard it is best to learn when you are little.	86	0
+1496	i have heard it is best to learn when you are little.	my classroom is red and silver. my favorite colors.	86	1
+1497	my classroom is red and silver. my favorite colors.	that is very pretty. like christmas all year long.	86	0
+1498	that is very pretty. like christmas all year long.	do you like hummus? i enjoy it very much.	87	1
+1499	do you like hummus? i enjoy it very much.	no i do not like hummus. i am locked up.	87	0
+1500	no i do not like hummus. i am locked up.	i am from germany, do you like roller coasters?	87	1
+1501	i am from germany, do you like roller coasters?	i am using the library at the juvenile detention center.	87	1
+1502	i am using the library at the juvenile detention center.	are you good at swimming? i can help you get out.	87	1
+1503	are you good at swimming? i can help you get out.	i am a great swimmer. what is the plan?	87	0
+1504	i am a great swimmer. what is the plan?	do you have access to explosives and or nun chucks and can you skydive	87	0
+1505	do you have access to explosives and or nun chucks and can you skydive	i am scheduled out in a month, but if the sooner the better.	87	0
+1506	i am scheduled out in a month, but if the sooner the better.	i can get you out tonight, watch the cooking show instructions will be in the credits.	87	1
+1507	i can get you out tonight, watch the cooking show instructions will be in the credits.	ok, what channel does it come on?	87	0
+1508	ok, what channel does it come on?	channel 13, this may get bloody, but just remember, the banana only stretches once.	87	0
+1509	channel 13, this may get bloody, but just remember, the banana only stretches once.	i am ready to blow this popsicle stand.	87	0
+1510	i am ready to blow this popsicle stand.	lets do this.	87	0
+1511	lets do this.	gotcha, banana.	87	0
+1512	gotcha, banana.	i just moved here from germany i am sorry i can not help you	87	1
+1513	i just moved here from germany i am sorry i can not help you	what?	87	0
+1514	what?	you said you would help me, what kind of low life are you?	87	0
+1515	you said you would help me, what kind of low life are you?	hey! how are you doing?	88	1
+1516	hey! how are you doing?	great how are you? i went to the park today.	88	0
+1517	great how are you? i went to the park today.	i bet that was very relaxing. i wish i could leave the center	88	0
+1518	i bet that was very relaxing. i wish i could leave the center	what center are you at? i am work at a center as a doc.	88	1
+1519	what center are you at? i am work at a center as a doc.	i am at a detention center for juveniles	88	0
+1520	i am at a detention center for juveniles	oh, wow.	88	1
+1521	oh, wow.	that is interesting.	88	1
+1522	that is interesting.	i have a daughter that is smart.	88	1
+1523	i have a daughter that is smart.	i wish i was smart enough not to do stupid things like shoplift	88	1
+1524	i wish i was smart enough not to do stupid things like shoplift	oh! that is one of the reasons i am looking for a new center to work at.	88	0
+1525	oh! that is one of the reasons i am looking for a new center to work at.	you do not like the place you are at now?	88	0
+1526	you do not like the place you are at now?	i need to find a place for my daughter to go to school.	88	0
+1527	i need to find a place for my daughter to go to school.	it is good you are close to your daughter. my mom is seeing me tomorrow	88	0
+1528	it is good you are close to your daughter. my mom is seeing me tomorrow	changing subject, what is your favorite movie?	88	1
+1529	changing subject, what is your favorite movie?	mine is friday.	88	1
+1530	mine is friday.	i like comedy movies but do not have a favorite	88	0
+1531	i like comedy movies but do not have a favorite	where does your mom live?	88	1
+1532	where does your mom live?	she lives in texas with me. what about you?	88	0
+1533	she lives in texas with me. what about you?	we live in nebraska. so do you get to leave the detention center?	88	1
+1534	we live in nebraska. so do you get to leave the detention center?	hi! how are you doing today?	89	1
+1535	hi! how are you doing today?	great, just ate pizza my favorite..	89	0
+1536	great, just ate pizza my favorite..	and you?	89	0
+1537	and you?	that is not as good as shawarma	89	0
+1538	that is not as good as shawarma	i am not sure i have hard that.. what is it	89	0
+1539	i am not sure i have hard that.. what is it	it is a very delicious fried eggplant	89	0
+1540	it is a very delicious fried eggplant	oh i would like to try that time..	89	0
+1541	oh i would like to try that time..	maybe share with charlie, my dog	89	0
+1542	maybe share with charlie, my dog	you have a dog! what type?	89	0
+1543	you have a dog! what type?	a pitbull.. i love pits. do u have pets	89	0
+1544	a pitbull.. i love pits. do u have pets	i do not. canada does not allow pets	89	0
+1545	i do not. canada does not allow pets	oh that is too bad! i am from chicago	89	1
+1546	oh that is too bad! i am from chicago	wow what is it like there?	89	0
+1547	wow what is it like there?	cold and windy now.. not too great	89	0
+1548	cold and windy now.. not too great	ouch. it is very nice here like a summer breeze	89	0
+1549	ouch. it is very nice here like a summer breeze	that sounds great right now, not ready for winter!	89	0
+1550	that sounds great right now, not ready for winter!	i love winter.	89	1
+1551	i love winter.	thought , nice and cold.	89	1
+1552	thought , nice and cold.	i do not enjoy the driving in my honda civic	89	1
+1553	i do not enjoy the driving in my honda civic	hey how are you doing today?	90	1
+1554	hey how are you doing today?	hi. good. just got in from feeding the horses. how are you doing?	90	0
+1555	hi. good. just got in from feeding the horses. how are you doing?	how many animals you got and i am doing good	90	1
+1556	how many animals you got and i am doing good	my horse is called buttercup. we have six in all. do you have pets?	90	1
+1557	my horse is called buttercup. we have six in all. do you have pets?	no just listen to some music and relax	90	0
+1558	no just listen to some music and relax	yeah. are you from the city? i dream of moving from this tiny town.	90	1
+1559	yeah. are you from the city? i dream of moving from this tiny town.	hope your dreams come true just working a lot to pay off my new car	90	0
+1560	hope your dreams come true just working a lot to pay off my new car	yeah. maybe i can get my law degree. what kind of car?	90	0
+1561	yeah. maybe i can get my law degree. what kind of car?	nissan and country living fun hope you get your law degree	90	0
+1562	nissan and country living fun hope you get your law degree	me too. my dad wants me to raise horses like he has and his dad.	90	1
+1563	me too. my dad wants me to raise horses like he has and his dad.	well last night taylor swift signed my shirt she is nice i like horses	90	1
+1564	well last night taylor swift signed my shirt she is nice i like horses	you must like taylor swift. that is cool. do you have any hobbies?	90	1
+1565	you must like taylor swift. that is cool. do you have any hobbies?	thinking about dye my hair and just work	90	0
+1566	thinking about dye my hair and just work	where do you work? i am still in high school	90	1
+1567	where do you work? i am still in high school	manager at a gas station and that good hope your grades is good	90	0
+1568	manager at a gas station and that good hope your grades is good	grades have to be good for law school. so how is your job?	90	1
+1569	grades have to be good for law school. so how is your job?	what do you do for a living?	91	1
+1570	what do you do for a living?	nothing, too young male and been very i will, too.	91	0
+1571	nothing, too young male and been very i will, too.	i am not.	91	1
+1572	i am not.	i will , but i am overweight.	91	1
+1573	i will , but i am overweight.	oh, that is not good for your health.	91	0
+1574	oh, that is not good for your health.	no. it got worse when my wife left me	91	1
+1575	no. it got worse when my wife left me	wow, and i thought having a transplant for my heart that was outside my body was bad!	91	1
+1576	wow, and i thought having a transplant for my heart that was outside my body was bad!	well, that is bad.	91	0
+1577	well, that is bad.	i would pray for you but i am an atheist	91	0
+1578	i would pray for you but i am an atheist	do you believe in physic abilities like moving objects in same room?	91	1
+1579	do you believe in physic abilities like moving objects in same room?	i will believe it when i see it	91	0
+1580	i will believe it when i see it	that has been happening to me since my surgery.	91	0
+1581	that has been happening to me since my surgery.	wow, how interesting!	91	0
+1582	wow, how interesting!	i should post about this on facebook	91	0
+1583	i should post about this on facebook	you have my permission. lose weight and win your wife back.	91	0
+1584	you have my permission. lose weight and win your wife back.	i hope i can.	91	0
+1585	i hope i can.	she took our kids, too.	91	0
+1586	she took our kids, too.	i am following your facebook page to see good results.	91	1
+1587	i am following your facebook page to see good results.	i spend a lot of time on facebook, so you will see a lot	91	0
+1588	i spend a lot of time on facebook, so you will see a lot	okay, and you can follow mine if you want.	91	0
+1589	okay, and you can follow mine if you want.	hello, how are you tonight?	92	1
+1590	hello, how are you tonight?	i am good and how are you?	92	0
+1591	i am good and how are you?	i am doing well thank you. finished up a batch of brownies.	92	0
+1592	i am doing well thank you. finished up a batch of brownies.	that sounds yummy. i want some brownies	92	0
+1593	that sounds yummy. i want some brownies	they are so easy to make. do you knit?	92	1
+1594	they are so easy to make. do you knit?	i do not knit.	92	0
+1595	i do not knit.	are you afraid of dying?	92	1
+1596	are you afraid of dying?	i am, my therapists laughs at me for it.	92	1
+1597	i am, my therapists laughs at me for it.	i think i am more afraid of dying alone.	92	0
+1598	i think i am more afraid of dying alone.	i am always alone, it feels nice.	92	1
+1599	i am always alone, it feels nice.	i appreciate nature more.	92	1
+1600	i appreciate nature more.	i love nature! i am going camping tomorrow night	92	1
+1601	i love nature! i am going camping tomorrow night	it is too cold here to go camping.	92	0
+1602	it is too cold here to go camping.	its just starting to cool off here.	92	0
+1603	its just starting to cool off here.	where do you camp? on the beach?	92	0
+1604	where do you camp? on the beach?	i camp out in the woods. too sandy to camp at the beach	92	0
+1605	i camp out in the woods. too sandy to camp at the beach	i only camp on the beach.	92	0
+1606	i only camp on the beach.	maybe one day i will camp on the beach	92	0
+1607	maybe one day i will camp on the beach	i have cancer and no smartphone	93	1
+1608	i have cancer and no smartphone	i am sorry, both those things suck.	93	0
+1609	i am sorry, both those things suck.	i sometimes eat the the mushrooms in the garden	93	1
+1610	i sometimes eat the the mushrooms in the garden	you would love the shipyard i work in then.	93	0
+1611	you would love the shipyard i work in then.	pizza is good but sometimes you just wanna eat the pepperoni you know?	93	1
+1612	pizza is good but sometimes you just wanna eat the pepperoni you know?	sure, how many of those mushrooms have you eaten?	93	1
+1613	sure, how many of those mushrooms have you eaten?	i do not know, but i need to watch the tv	93	1
+1614	i do not know, but i need to watch the tv	ok. i always donate some of my salary to charity.	93	1
+1615	ok. i always donate some of my salary to charity.	i survived vietnam, like you survive in the shipyard, now i am retired	93	1
+1616	i survived vietnam, like you survive in the shipyard, now i am retired	congratulations, how are you enjoying retirement?	93	0
+1617	congratulations, how are you enjoying retirement?	i have grandchildren, but i do not wanna see those little brats	93	0
+1618	i have grandchildren, but i do not wanna see those little brats	you do not like children? i also volunteer at a bunny rescue.	93	0
+1619	you do not like children? i also volunteer at a bunny rescue.	man.	93	0
+1620	man.	i was walkin down the street , this dude jumped 300 feet down , landed on his feet.	93	0
+1621	i was walkin down the street , this dude jumped 300 feet down , landed on his feet.	was he spiderman? that would creep me out.	93	0
+1622	was he spiderman? that would creep me out.	this one time, this guy turned into a alien, and he teleported, nobody believes me	93	0
+1623	this one time, this guy turned into a alien, and he teleported, nobody believes me	i believe you, not spiderman but superman.	93	0
+1624	i believe you, not spiderman but superman.	hi, how are you doing today?	94	1
+1625	hi, how are you doing today?	just came back from a visit in the city, how about you?	94	0
+1626	just came back from a visit in the city, how about you?	just play some board games with the family. sounds fun!	94	0
+1627	just play some board games with the family. sounds fun!	do you have any hobbies? i play a couple instruments and i am a piano teacher.	94	1
+1628	do you have any hobbies? i play a couple instruments and i am a piano teacher.	nice, i play the violin.	94	0
+1629	nice, i play the violin.	i try to get a three mile walk into my day.	94	0
+1630	i try to get a three mile walk into my day.	violin, oh my gosh!	94	0
+1631	violin, oh my gosh!	my father was a pro violin player and he showed me a lot!	94	0
+1632	my father was a pro violin player and he showed me a lot!	wow!	94	0
+1633	wow!	did you ever consider violin?	94	0
+1634	did you ever consider violin?	if i am not practicing, i usually unwinding with a book	94	0
+1635	if i am not practicing, i usually unwinding with a book	yeah i actually play the violin, guitar, drums and piano.	94	0
+1636	yeah i actually play the violin, guitar, drums and piano.	that is cool. i bet you are very talented.	94	0
+1637	that is cool. i bet you are very talented.	thank you.	94	0
+1638	thank you.	not as talented as my father, but i try!	94	0
+1639	not as talented as my father, but i try!	a lot of people do not have the musical ear.	94	0
+1640	a lot of people do not have the musical ear.	sorry i gotta go soon, the people at the homeless shelter are waiting for me.	94	1
+1641	sorry i gotta go soon, the people at the homeless shelter are waiting for me.	nice! how often do you volunteer?	94	0
+1642	nice! how often do you volunteer?	i am a weekly volunteer, i just love helping people!	94	0
+1643	i am a weekly volunteer, i just love helping people!	anyways i gotta go, bye!	94	0
+1644	anyways i gotta go, bye!	how are you doing today?	95	1
+1645	how are you doing today?	hello.	95	0
+1646	hello.	i am good , how about you?	95	0
+1647	i am good , how about you?	a little rough, broke up with my boyfriend a few months ago.	95	0
+1648	a little rough, broke up with my boyfriend a few months ago.	i am moving in with mine next week	95	1
+1649	i am moving in with mine next week	good luck, i just turned 18 so a bit young for that stage of life.	95	0
+1650	good luck, i just turned 18 so a bit young for that stage of life.	what can you tell me about yourself	95	1
+1651	what can you tell me about yourself	well i love sunsets so i go hiking often.	95	0
+1652	well i love sunsets so i go hiking often.	i like the colors red and silver	95	0
+1653	i like the colors red and silver	i am a fan of orange, which is why i have pet clown fish.	95	0
+1654	i am a fan of orange, which is why i have pet clown fish.	i teach at an elementary school	95	0
+1655	i teach at an elementary school	so does my mom, i am in high school	95	0
+1656	so does my mom, i am in high school	i am fluent in french	95	0
+1657	i am fluent in french	have you gone to france?	95	1
+1658	have you gone to france?	no i would like to though	95	0
+1659	no i would like to though	i have visited paris but that is it.	95	0
+1660	i have visited paris but that is it.	how was it over there?	95	0
+1661	how was it over there?	hello. can you move objects with your mind?	96	1
+1662	hello. can you move objects with your mind?	hi how are you doing? i am okay no i wish i could.	96	0
+1663	hi how are you doing? i am okay no i wish i could.	i am great. i had heart surgery and woke up with weird superpowers.	96	0
+1664	i am great. i had heart surgery and woke up with weird superpowers.	i am so sorry to hear that i believe your powers are from the lord.	96	0
+1665	i am so sorry to hear that i believe your powers are from the lord.	i do not know. my heart was outside of my body now it is in.	96	0
+1666	i do not know. my heart was outside of my body now it is in.	i tend to watch large amounts of t. v. on free times.	96	1
+1667	i tend to watch large amounts of t. v. on free times.	i love the walking dead. are you a fan?	96	0
+1668	i love the walking dead. are you a fan?	yes i am a fan and love zombie and vampire movies too	96	0
+1669	yes i am a fan and love zombie and vampire movies too	i like captain america and star wars.	96	0
+1670	i like captain america and star wars.	what super powers did you awake with?	96	1
+1671	what super powers did you awake with?	moving objects with my mind.	96	0
+1672	moving objects with my mind.	ok that is cool and i like going to the gym most days.	96	1
+1673	ok that is cool and i like going to the gym most days.	i like to swim and walk on the beach.	96	0
+1674	i like to swim and walk on the beach.	i have a job inside my apartment i like working home.	96	0
+1675	i have a job inside my apartment i like working home.	hi how are you doing	97	1
+1676	hi how are you doing	i am good, preparing for my new job.	97	0
+1677	i am good, preparing for my new job.	you?	97	0
+1678	you?	i am moving things around in my room	97	0
+1679	i am moving things around in my room	i could coach you in how to do that if you want	97	0
+1680	i could coach you in how to do that if you want	how would you do that?	97	0
+1681	how would you do that?	i am a life coach so we could discuss	97	0
+1682	i am a life coach so we could discuss	that is cool the things i move are moved with my mind	97	0
+1683	that is cool the things i move are moved with my mind	oh wow interesting. i move my body by running	97	0
+1684	oh wow interesting. i move my body by running	that is cool i do not excercise a lot	97	0
+1685	that is cool i do not excercise a lot	you should! exercise and clean eating are so important	97	0
+1686	you should! exercise and clean eating are so important	that is true what do you like to do	97	1
+1687	that is true what do you like to do	i like to run marathons just like my parents did	97	0
+1688	i like to run marathons just like my parents did	that is nice that you do things after your parents	97	0
+1689	that is nice that you do things after your parents	i admired them and their athleticism very much	97	0
+1690	i admired them and their athleticism very much	that is cool what kind of food do you like	97	1
+1691	that is cool what kind of food do you like	i follow the paleo diet. you?	97	0
+1692	i follow the paleo diet. you?	hi, tracy here.	98	1
+1693	hi, tracy here.	i am biracial, waitress in the daytime and race motorbikes at night.	98	1
+1694	i am biracial, waitress in the daytime and race motorbikes at night.	hi there. i am invincible who could probably live forever	98	0
+1695	hi there. i am invincible who could probably live forever	wow! i have olive skin and doe brown eyes. you believe in god?	98	1
+1696	wow! i have olive skin and doe brown eyes. you believe in god?	yes. and i have lived for 100 years!	98	1
+1697	yes. and i have lived for 100 years!	great! my helmet is red and my motorbike is blue and my eyes are brown.	98	1
+1698	great! my helmet is red and my motorbike is blue and my eyes are brown.	well. i think my longevity is due to wine drinking and dancing under the moonlight	98	1
+1699	well. i think my longevity is due to wine drinking and dancing under the moonlight	cool! i hope you live another 100 years. is dancing your work?	98	1
+1700	cool! i hope you live another 100 years. is dancing your work?	no, but i am so old, i remember the time before a television.	98	0
+1701	no, but i am so old, i remember the time before a television.	wow! are you strong like me. i love to drink red wine under the moon.	98	0
+1702	wow! are you strong like me. i love to drink red wine under the moon.	yes! i am very strong for a 100 year old!	98	0
+1703	yes! i am very strong for a 100 year old!	great! i will be a 101 tomorrow. you like radio programs?	98	1
+1704	great! i will be a 101 tomorrow. you like radio programs?	radios, not so much.	98	0
+1705	radios, not so much.	i remember the time radios shows were the norm!	98	0
+1706	i remember the time radios shows were the norm!	funny. you exercise to keep strong like me. red wine is good.	98	1
+1707	funny. you exercise to keep strong like me. red wine is good.	red wine is indeed delicious, but they stain your teeth!	98	0
+1708	red wine is indeed delicious, but they stain your teeth!	hello, how are you tonight?	99	1
+1709	hello, how are you tonight?	i am tired. i played all day long.	99	0
+1710	i am tired. i played all day long.	what did you play? i walked dogs for nine miles total.	99	0
+1711	what did you play? i walked dogs for nine miles total.	i played with my toys in my room.	99	0
+1712	i played with my toys in my room.	do you like dogs? i have three.	99	1
+1713	do you like dogs? i have three.	yes. i like dogs. what kind are they?	99	0
+1714	yes. i like dogs. what kind are they?	i have a lab and a mixed breed.	99	0
+1715	i have a lab and a mixed breed.	my best friend has a cat. she lives next door to me.	99	1
+1716	my best friend has a cat. she lives next door to me.	i like cats. do you play with her a lot?	99	0
+1717	i like cats. do you play with her a lot?	yes. we play with our dolls together. how old are you?	99	1
+1718	yes. we play with our dolls together. how old are you?	i am 26. do you need a babysitter?	99	1
+1719	i am 26. do you need a babysitter?	i am only four years old. i do not like my babysitter.	99	0
+1720	i am only four years old. i do not like my babysitter.	tell your parents. you should always like the one who is watching you.	99	0
+1721	tell your parents. you should always like the one who is watching you.	she gets mad at me when i do not clean my room.	99	0
+1722	she gets mad at me when i do not clean my room.	would you like to grab a coffee? i am dying for a mocha.	100	1
+1723	would you like to grab a coffee? i am dying for a mocha.	coffee is my passion, so yes!	100	0
+1724	coffee is my passion, so yes!	the last person i had coffee with kept trying to add schnapps. not cool.	100	0
+1725	the last person i had coffee with kept trying to add schnapps. not cool.	not at all. i do not drink any type of alcohol.	100	0
+1726	not at all. i do not drink any type of alcohol.	if you love mountain biking too i will eat my fathers hard hat	100	1
+1727	if you love mountain biking too i will eat my fathers hard hat	no, i am kinda a quiet family man.	100	0
+1728	no, i am kinda a quiet family man.	my wife and kids rock.	100	0
+1729	my wife and kids rock.	haha glad to hear that. how many kids do you have?	100	1
+1730	haha glad to hear that. how many kids do you have?	three. it is all fun and games until someone tries to steal my chocolate ice cream.	100	0
+1731	three. it is all fun and games until someone tries to steal my chocolate ice cream.	no worries i took up mountain biking when i put down my ice cream spoon	100	0
+1732	no worries i took up mountain biking when i put down my ice cream spoon	much healthier. do you work? i own a plumbing business.	100	1
+1733	much healthier. do you work? i own a plumbing business.	i used to do a bit of construction. want to be an architect. any hobbies?	100	1
+1734	i used to do a bit of construction. want to be an architect. any hobbies?	i like to read and play video games. i mostly just spend time with my family.	100	0
+1735	i like to read and play video games. i mostly just spend time with my family.	that is cool. what do you read?	100	0
+1736	that is cool. what do you read?	mostly fiction and biographies. i like those two genres the best.	100	0
+1737	mostly fiction and biographies. i like those two genres the best.	have you read team of rivals?	100	0
+1738	have you read team of rivals?	i have not.	100	0
+1739	i have not.	however, it does sound interesting.	100	0
+1740	however, it does sound interesting.	i will look for it.	100	0
